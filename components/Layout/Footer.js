@@ -12,7 +12,7 @@ const Footer = () => {
   return (
     <div className="fixed lg:hidden bottom-0 mb-1 mx-1 right-0 left-0 z-20">
       {/* Schedule Popup */}
-      {showSchedulePopup && (
+      {/* {showSchedulePopup && (
         <div className="absolute bottom-20 left-0 right-0 flex justify-center z-30">
           <div className="bg-dark-500 border border-white border-opacity-20 rounded-xl shadow-2xl p-2 flex gap-4 animate-bounce-in">
             <Link href="/schedule?tab=menu">
@@ -35,7 +35,7 @@ const Footer = () => {
             </Link>
           </div>
         </div>
-      )}
+      )} */}
 
       <div className="bg-dark-500 w-full px-6 rounded-full shadow border-opacity-20 border border-white">
         <ul className="flex items-center justify-evenly text-white text-xs font-light py-2 md:py-3">
@@ -46,6 +46,7 @@ const Footer = () => {
             </li>
           </Link>
           
+          {/* 
           <li 
             className="flex items-center flex-col px-2 py-1 cursor-pointer relative"
             onClick={() => setShowSchedulePopup(!showSchedulePopup)}
@@ -53,6 +54,13 @@ const Footer = () => {
             <CalenderIcon className={`h-6 w-6 mb-1 transition ${showSchedulePopup ? 'text-blue-accent' : ''}`} />
             <p>Schedule</p>
           </li>
+          */}
+          <Link href="/schedule">
+            <li className="flex items-center flex-col px-2 py-1 cursor-pointer">
+              <CalenderIcon className="h-6 w-6 mb-1" />
+              <p>Schedule</p>
+            </li>
+          </Link>
 
           <Link href="/information">
             <li className="flex items-center flex-col px-2 py-1 cursor-pointer" onClick={() => setShowSchedulePopup(false)}>
@@ -70,9 +78,9 @@ const Footer = () => {
       </div>
       
       {/* Click outside to close */}
-      {showSchedulePopup && (
+      {/* {showSchedulePopup && (
         <div className="fixed inset-0 z-10" onClick={() => setShowSchedulePopup(false)}></div>
-      )}
+      )} */}
     </div>
   );
 };
