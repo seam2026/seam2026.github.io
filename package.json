@@ -1,5 +1,5 @@
 {
-  "name": "next-landing-vpn",
+  "name": "seam2026",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,17 +8,18 @@
     "start": "next start"
   },
   "dependencies": {
-    "@fullhuman/postcss-purgecss": "^3.0.0",
+    "@fullhuman/postcss-purgecss": "^7.0.2",
+    "@tailwindcss/postcss": "^4.1.17",
     "autoprefixer": "^10.4.22",
-    "next": "^12.3.4",
+    "next": "^16.0.6",
     "postcss": "^8.5.6",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-markdown": "^8.0.7",
-    "tailwindcss": "^2.0.1"
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-markdown": "^10.1.0",
+    "tailwindcss": "^4.1.17"
   },
   "devDependencies": {
-    "all-contributors-cli": "^6.20.0",
-    "babel-plugin-inline-react-svg": "^1.1.2"
+    "all-contributors-cli": "^6.26.1",
+    "babel-plugin-inline-react-svg": "^2.0.2"
   }
 }

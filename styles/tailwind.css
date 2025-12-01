@@ -1,8 +1,10 @@
 /* purgecss start ignore */
 @import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Habibi&family=Montserrat:wght@300;400;500;600;700&family=Playfair+Display:wght@400;700&display=swap");
 
-@tailwind base;
-@tailwind components;
+
+@import "tailwindcss";
+@config "./../tailwind.config.js";
+
 html {
   font-family: "Montserrat", sans-serif;
 }
@@ -18,8 +20,7 @@ html {
 .bg-blur-2px {
   filter: blur(2px);
 }
+
 p {
   @apply tracking-wide;
 }
-/* purgecss end ignore */
-@tailwind utilities;
