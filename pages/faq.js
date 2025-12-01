@@ -19,7 +19,7 @@ export default function FAQ() {
       <div className="min-h-screen pt-24 px-4 lg:px-8 text-white">
         <h1 className="text-4xl font-great-vibes text-center mb-12">FAQs & Contact</h1>
         
-        <div className="max-w-3xl mx-auto mb-16">
+        <div className="max-w-xl mx-auto mb-16">
           <h2 className="text-2xl font-habibi mb-6 text-center">Common Questions</h2>
           <div className="space-y-6">
             {faqs.map((item, idx) => (
@@ -32,7 +32,7 @@ export default function FAQ() {
         </div>
       </div>
       <div className='pb-24 px-4 lg:px-8'>
-        <div className="max-w-xl mx-auto text-center bg-white bg-opacity-10 p-8 rounded-xl">
+        <div className="max-w-xl mx-auto text-center bg-white text-dark-450 bg-opacity-10 p-8 rounded-xl">
           <h2 className="text-2xl font-habibi mb-6">Contact Information</h2>
           <p className="mb-2">For any inquiries, please contact:</p>
           <p className="text-xl font-bold mb-1">Kishore Ravuri</p>

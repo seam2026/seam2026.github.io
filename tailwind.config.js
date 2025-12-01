@@ -41,6 +41,9 @@ module.exports = {
 
         7: 'repeat(7, minmax(0, 1fr))',
       },
+      height: {
+        'screen-plus': 'calc(100vh + 9rem)',
+      },
     },
   },
   variants: {},

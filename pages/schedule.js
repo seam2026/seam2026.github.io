@@ -102,16 +102,16 @@ export default function Schedule() {
         <div className="flex justify-center mb-12 gap-4">
           <button 
             onClick={() => setActiveTab('events')}
-            className={`flex items-center gap-2 px-6 py-3 rounded-full transition border ${activeTab === 'events' ? 'bg-blue-accent text-dark-500 border-blue-accent font-bold' : 'bg-dark-450 text-white border-white border-opacity-20 hover:bg-white hover:bg-opacity-10'}`}
+            className={`flex items-center gap-2 px-6 py-3 rounded-full transition border ${activeTab === 'events' ? 'bg-blue-accent text-dark-500 border-blue-accent font-bold' : 'bg-dark-450 text-white border-white border-opacity-20 hover:bg-white/10 cursor-pointer'}`}
           >
-            <CalenderIcon className="w-5 h-5" />
+            <CalenderIcon className="w-5 h-5 stroke-current stroke-[0.5]" />
             Events
           </button>
           <button 
             onClick={() => setActiveTab('menu')}
-            className={`flex items-center gap-2 px-6 py-3 rounded-full transition border ${activeTab === 'menu' ? 'bg-yellow-accent text-dark-500 border-yellow-accent font-bold' : 'bg-dark-450 text-white border-white border-opacity-20 hover:bg-white hover:bg-opacity-10'}`}
+            className={`flex items-center gap-2 px-6 py-3 rounded-full transition border ${activeTab === 'menu' ? 'bg-yellow-accent text-dark-500 border-yellow-accent font-bold' : 'bg-dark-450 text-white border-white border-opacity-20 hover:bg-white/10 cursor-pointer'}`}
           >
-            <FoodIcon className="w-5 h-5" />
+            <FoodIcon className="w-5 h-5 stroke-current stroke-[0.5]" />
             Menu
           </button>
         </div>
