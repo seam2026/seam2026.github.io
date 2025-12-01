@@ -5,7 +5,7 @@ import fs from 'fs';
 import path from 'path';
 import ReactMarkdown from 'react-markdown';
 
-export default function Notifications({ announcements }) {
+export default function Information({ announcements }) {
   const [openIndex, setOpenIndex] = useState(null);
 
   const toggleAccordion = (index) => {
@@ -15,10 +15,10 @@ export default function Notifications({ announcements }) {
   return (
     <Layout>
       <Head>
-        <title>Notifications - SEAM 2026</title>
+        <title>Information - SEAM 2026</title>
       </Head>
       <div className="min-h-screen pt-24 pb-24 px-4 lg:px-8 text-white">
-        <h1 className="text-4xl font-great-vibes text-center mb-12">Important Announcements</h1>
+        <h1 className="text-4xl font-great-vibes text-center mb-12">Information</h1>
         
         <div className="max-w-3xl mx-auto space-y-4">
           {announcements.map((announcement, index) => (

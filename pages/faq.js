@@ -4,11 +4,11 @@ import Layout from '@/components/Layout/Layout';
 export default function FAQ() {
   const faqs = [
     { q: "Who can attend SEAM 2026?", a: "All Sai Student alumni from Europe are welcome to attend." },
-    { q: "What is the registration fee?", a: "The registration fee details will be provided on the Notifications page." },
-    { q: "Whom do I pay the registration fee to?", a: "Payment details will be shared in the Notifications page." },
+    { q: "What is the registration fee?", a: "The registration fee details will be provided on the Information page." },
+    { q: "Whom do I pay the registration fee to?", a: "Payment details will be shared in the Information page." },
     { q: "Is accommodation provided?", a: "Accommodation details will be shared upon registration and payment closer to the event date." },
     { q: "How do I travel to the location?", a: "The nearest airport is Zurich Airport. We plan to arrange shuttle service from Zurich Hauptbahnhof." },
-    { q: "What should I bring to the event?", a: "A detailed packing list will be provided closer to the event date in the Notifications page." },
+    { q: "What should I bring to the event?", a: "A detailed packing list will be provided closer to the event date in the Information page." },
   ];
 
   return (

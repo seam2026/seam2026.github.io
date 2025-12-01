@@ -29,9 +29,12 @@ module.exports = {
           500: '#7E7464',
         },
         dark: {
-          500: '#23261E',
-          450: 'hsla(83,12%,13%,0.4)',
+          500: '#0f172a', // Deep Blue/Slate
+          450: 'rgba(15, 23, 42, 0.8)',
         },
+        'blue-accent': '#38bdf8',
+        'yellow-accent': '#facc15',
+        'pink-accent': '#f472b6',
       },
       gridTemplateRows: {
         // Simple 8 row grid
