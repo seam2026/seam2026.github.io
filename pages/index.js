@@ -82,7 +82,7 @@ export default function Home() {
         </section>
 
         <section id='event-details' className='hidden lg:block'>
-          <div className="z-10 bg-gray-800/30 p-6 max-w-2xl mx-auto border border-white/20 text-center">
+          <div className="z-10 bg-gray-800/30 p-6 max-w-2xl mx-auto border border-white/20 text-white text-center">
               <h3 className="text-2xl font-bold mb-4">Event Details</h3>
               <p className="mb-2"><strong>Dates:</strong> 1st May to 4th May, 2026</p>
               <p className="mb-2"><strong>Location:</strong> <a href="https://maps.app.goo.gl/B39EJi1zC4Un6nKz9" target="_blank" rel="noopener noreferrer" className="underline hover:text-gray-300">Grischalodge, Parpan, Switzerland</a></p>
