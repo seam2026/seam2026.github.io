@@ -1,194 +1,65 @@
 import Head from 'next/head';
-import Image from 'next/image';
 import Layout from '@/components/Layout/Layout';
-// import Resepsi from '../public/assets/icons/resepsi.svg';
-import Ring from '../public/assets/icons/ring.svg';
-
-import Location from '../public/assets/icons/location.svg';
 
 export default function Home() {
   return (
     <div>
       <Head>
-        <title>Wedding Invitation</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>SEAM 2026 - Sai Europe Alumni Meet</title>
       </Head>
       <Layout>
-        {/* Header Mobile */}
-        <section
-          id="beranda"
-          className="flex lg:hidden bg-cover bg-center  w-full h-screen  items-start py-14"
-          style={{ backgroundImage: 'url(/assets/prewedding-home.png)' }}
-        >
-          <div className="flex flex-col  w-full relative">
-            <div className="absolute h-full w-full bg-dark-450 bg-blur-2px"></div>
-            <div className="flex flex-col w-full text-white text-center h-auto  px-8 py-3.5 z-10">
-              <p className="font-habibi ">Pernikahan dari</p>
-              <h4 className="font-great-vibes text-5xl mb-4 mt-6">
-                Bambang & Partini
-              </h4>
-              <p className="font-habibi ">01 Januari 2021</p>
-            </div>
+        {/* Mobile Video Background Section */}
+        <section className="flex lg:hidden w-full h-screen items-start py-14 relative overflow-hidden">
+           <video autoPlay loop muted playsInline className="absolute top-0 left-0 w-full h-full object-cover z-0">
+             <source src="/assets/video_mobile.mp4" type="video/mp4" />
+           </video>
+          <div className="absolute h-full w-full bg-dark-450 bg-blur-2px z-0"></div>
+          
+          <div className="flex flex-col w-full text-white text-center h-auto px-8 py-3.5 z-10 mt-10">
+            <p className="font-habibi text-xl">Aum Sri Sai Ram</p>
+            <h4 className="font-playfair font-bold text-5xl mb-4 mt-6">
+              SEAM 2026
+            </h4>
+            <p className="font-habibi">Sai Europe Alumni Meet</p>
+            <p className="font-habibi mt-2">1st - 4th May 2026</p>
           </div>
         </section>
-        {/* End Header Mobile */}
-        <section
-          id="beranda-dekstop"
-          className="hidden lg:grid bg-dark-500 py-14 lg:py-0 mb:pb-6 grid-flow-col grid-cols-2 gap-4 row-span-4 h-screen"
-        >
-          <div className="flex flex-col text-white px-8 pb-20 pt-28 justify-end">
-            <div className="flex flex-col text-center my-auto">
-              <p>
-                “And of His signs is that He created for you from your selves
-                mates that you may find tranquility in them; and He placed
-                between you affection and mercy. Indeed in that are signs for a
-                people who give thought.”
-              </p>
-              <p>( QS. Ar- Rum 21 )</p>
-            </div>
-            <div className="flex flex-col ">
-              <p className="font-habibi">Pernikahan dari</p>
-              <h4 className="font-great-vibes text-5xl mb-4 mt-6">
-                Bambang & Partini
-              </h4>
-              <p className="font-habibi ml-auto">01 Januari 2021</p>
-            </div>
-          </div>
-          <div className="flex w-full relative">
-            <Image
-              src="/assets/prewedding-home.png"
-              alt="Picture of the author"
-              layout="fill"
-              objectFit="cover"
-              quality={100}
-              loading="lazy"
-            />
-          </div>
-        </section>
-        <section
-          id="resepsi"
-          className="bg-dark-500 py-14  mb:pb-6 grid grid-flow-row gap-4 row-span-4 h-screen"
-        >
-          <div className="flex flex-col  w-full relative lg:h-full">
-            <div className="absolute h-full w-full bg-dark-450 bg-blur-2px lg:hidden"></div>
-            <div className="flex flex-col w-full text-white text-center h-auto  px-8 py-3.5 z-10 lg:my-auto">
-              <p className="font-habibi lg:hidden">Pernikahan dari</p>
-              <h4 className="font-great-vibes text-5xl lg:text-7xl mb-4 mt-6 ">
-                Bambang & Partini
-              </h4>
-              <p className="lg:hidden font-habibi ">01 Januari 2021</p>
-            </div>
-          </div>
-          <div className="flex w-full px-8 text-white font-habibi text-sm md:text-base lg:text-xl">
-            <div className="flex flex-col w-1/2 text-center px-2 break-words">
-              <p>Putra dari</p>
-              <p>Bapak Badril Munir</p>
-              <p>Ibu Sartinah</p>
-            </div>
-            <div className="flex flex-col w-1/2 text-center px-2 break-words ">
-              <p>Putra dari</p>
-              <p>Bapak Badril Munir</p>
-              <p>Ibu Sartinah</p>
-            </div>
-          </div>
-          <div className="flex flex-col mx-auto h-40 lg:h-full items-center justify-center w-full px-8">
-            <div className="flex flex-col md:flex-row w-full">
-              <div className="flex w-full my-2 h-16 lg:h-20 md:justify-center">
-                <Ring className="h-12 md:h-16 w-12 md:w-16  mr-6 my-auto" />
-                <div className="flex flex-col text-white font-habibi justify-between h-full">
-                  <p className="text-base md:text-lg lg:text-3xl">
-                    Akad pernikahan{' '}
-                  </p>
-                  <p className="text-xs md:text-base lg:text-lg">
-                    Pukul 08.00 s.d 10.00 WIB
-                  </p>
-                </div>
-              </div>
 
-              <div className="flex w-full my-2 h-16 lg:h-20 md:justify-center">
-                <img
-                  src="/assets/icons/resepsi.svg"
-                  className="h-12 md:h-16 w-12 md:w-16  mr-6 my-auto"
-                />
-                <div className="flex flex-col text-white font-habibi justify-between h-full">
-                  <p className="text-base md:text-lg lg:text-3xl">Resepsi </p>
-                  <p className="text-xs md:text-base lg:text-lg">
-                    Pukul 10.00 s.d Selesai
-                  </p>
-                </div>
-              </div>
-            </div>
-            <p className="hidden md:block mt-12 lg:mt-auto mx-auto text-lg text-white font-habibi">
-              Bertempat di mempelai wanita, Perum permata hijau Blok F no 45
+        {/* Desktop Video Background Section */}
+        <section className="hidden lg:grid bg-dark-500 py-14 lg:py-0 grid-cols-2 h-screen relative">
+           <video autoPlay loop muted playsInline className="absolute top-0 left-0 w-full h-full object-cover z-0 opacity-40">
+             <source src="/assets/video_computer.mp4" type="video/mp4" />
+           </video>
+          
+          <div className="flex flex-col text-white px-16 justify-center z-10 col-span-2 text-center">
+            <p className="font-habibi text-2xl mb-4">Aum Sri Sai Ram</p>
+            <h1 className="font-playfair font-bold text-8xl mb-6">
+              SEAM 2026
+            </h1>
+            <p className="text-xl max-w-3xl mx-auto mb-8">
+              Welcome to the official website for the Sai Europe Alumni Meet 2026. 
+              This event is a special gathering for all Sai Student alumni across Europe 
+              to come together to reconnect and rejoice the spirit of unity and devotion.
             </p>
-          </div>
-          <div className="flex mx-auto h-32 lg:h-full items-start lg:items-end justify-start w-full px-8">
-            <button className="mt-6 px-6 md:px-12 py-2 md:py-3 flex justify-center items-center border-white border rounded-l-full rounded-r-full mx-auto text-white font-habibi text-sm md:text-base">
-              <Location className="h-8 md:h-10 w-8 md:w-10 mr-4" />
-              Cek Lokasi
-            </button>
-          </div>
-        </section>
-        <section
-          id="gallery"
-          className="bg-dark-500 pt-8 md:pt-0 lg:pt-32 pb-24 lg:pb-8 grid grid-flow-row gap-4 grid-rows-7 lg:grid-rows-5 grid-cols-2 lg:grid-cols-3 h-screen px-4 lg:px-8"
-        >
-          <h1 className="col-span-2  text-5xl font-great-vibes my-auto mx-auto text-white lg:hidden">
-            Gallery
-          </h1>
-          <div className="flex row-span-3 ">
-            <Image
-              src="/assets/gallery-mobile/photo-1.png"
-              alt="Picture of the author"
-              width={500}
-              height={500}
-              objectFit="cover"
-              quality={100}
-              loading="lazy"
-            />
-          </div>
-          <div className="flex  row-start-3 col-start-2 row-span-3 lg:row-span-5 bg-white">
-            <Image
-              src="/assets/gallery-mobile/photo-2.png"
-              alt="Picture of the author"
-              width={500}
-              height={500}
-              objectFit="cover"
-              quality={100}
-              loading="lazy"
-            />
-          </div>
-          <div className="flex row-span-1 col-start-2 lg:col-start-3 row-start-2  lg:row-span-2">
-            <Image
-              src="/assets/gallery-mobile/photo-3.png"
-              alt="Picture of the author"
-              width={500}
-              height={500}
-              objectFit="cover"
-              quality={100}
-              loading="lazy"
-            />
-          </div>
-          <div className="flex row-span-1 lg:row-span-3">
-            <Image
-              src="/assets/gallery-mobile/photo-4.png"
-              alt="Picture of the author"
-              width={500}
-              height={500}
-              objectFit="cover"
-              quality={100}
-              loading="lazy"
-            />
-          </div>
-          <div className="flex row-span-2 lg:row-span-2 col-span-2 lg:col-span-1 w-full relative">
-            <Image
-              src="/assets/gallery-mobile/photo-5.png"
-              alt="Picture of the author"
-              layout="fill"
-              objectFit="cover"
-              quality={100}
-              loading="lazy"
-            />
+            
+            <div className="bg-dark-500 bg-opacity-80 p-8 rounded-xl max-w-2xl mx-auto border border-white border-opacity-20">
+                <h3 className="text-2xl font-bold mb-4">Event Details</h3>
+                <p className="mb-2"><strong>Dates:</strong> 1st May to 4th May, 2026</p>
+                <p className="mb-2"><strong>Location:</strong> Grischalodge, Parpan, Switzerland</p>
+                <p className="mb-6"><strong>Address:</strong> Hauptstrasse 22, 7076 Parpan, Switzerland</p>
+                
+                <div className="flex justify-center gap-4 flex-wrap">
+                    <a href="#" className="px-6 py-2 bg-white text-dark-500 rounded-full font-bold hover:bg-gray-200 transition">
+                        Register Now
+                    </a>
+                    <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NDAxMmwwaG80ZmJ1aG9kMmg5dmpyNWxxb2ogc2l2YXJhdG5ha2FyLmltbWFkaUBt&tmsrc=sivaratnakar.immadi%40gmail.com" target="_blank" className="px-6 py-2 border border-white rounded-full hover:bg-white hover:text-dark-500 transition">
+                        Add to Google Calendar
+                    </a>
+                    <a href="/SEAM2026.ics" className="px-6 py-2 border border-white rounded-full hover:bg-white hover:text-dark-500 transition">
+                        Download iCal
+                    </a>
+                </div>
+            </div>
           </div>
         </section>
       </Layout>

@@ -1,25 +1,30 @@
 import React from 'react';
+import Link from 'next/link';
+import Logo from '../../public/assets/icons/final_logo_small.svg';
 
 const Header = () => {
   return (
-    <div className="hidden lg:block fixed top-0 right-0 left-0 bg-transparent  px-8   z-20">
-      <div className="max-w-screen-2xl w-full mx-auto grid grid-cols-2">
-        <ul className="flex w-full text-sm lg:text-base text-white bg-dark-500 py-4 rounded-l-full rounded-r-full">
-          <li className="py-3 px-4 xl:px-8 border border-white rounded-l-full rounded-r-full mx-1 xl:mx-3 text-sm xl:text-base cursor-pointer">
-            {' '}
-            Beranda
+    <div className="hidden lg:block fixed top-0 right-0 left-0 bg-transparent px-8 z-20">
+      <div className="max-w-screen-2xl w-full mx-auto flex justify-between items-center pt-4">
+        {/* Logo - Top Left, links to Notifications */}
+        <Link href="/notifications">
+          <a className="cursor-pointer bg-white p-2 rounded-full shadow-lg hover:bg-gray-100 transition">
+             <Logo className="h-8 w-8 text-dark-500" />
+          </a>
+        </Link>
+
+        <ul className="flex text-sm lg:text-base text-white bg-dark-500 py-4 rounded-full px-8 shadow-lg">
+          <li className="mx-3 cursor-pointer hover:text-gray-300">
+            <Link href="/">Home</Link>
           </li>
-          <li className="py-3 px-4 xl:px-8 border border-transparent hover:border-white rounded-l-full rounded-r-full mx-1 xl:mx-3 cursor-pointer">
-            {' '}
-            Akad & Resepsi
+          <li className="mx-3 cursor-pointer hover:text-gray-300">
+            <Link href="/schedule">Schedule</Link>
           </li>
-          <li className="py-3 px-4 xl:px-8 border border-transparent hover:border-white rounded-l-full rounded-r-full mx-1 xl:mx-3 cursor-pointer">
-            {' '}
-            Galeri
+          <li className="mx-3 cursor-pointer hover:text-gray-300">
+            <Link href="/notifications">Notifications</Link>
           </li>
-          <li className="py-3 px-4 xl:px-8 border border-transparent hover:border-white rounded-l-full rounded-r-full mx-1 xl:mx-3 cursor-pointer">
-            {' '}
-            Ucapan
+          <li className="mx-3 cursor-pointer hover:text-gray-300">
+            <Link href="/faq">FAQs & Contact</Link>
           </li>
         </ul>
       </div>

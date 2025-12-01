@@ -1,91 +1,77 @@
-# 💍 Ibarin
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+# SEAM 2026 Website
 
-> A brief description of what this project does and who it's for
+This is the official website for the Sai Europe Alumni Meet 2026.
 
-## 🗒️ Features
+## Getting Started
 
-### Template feature
+1.  **Install Dependencies**:
+    `ash
+    npm install
+    ` 
 
-- 🎈 Mobile first and responsive page
-- 🤖 SEO metadata and Open Graph tags [#10](https://github.com/adeka-factory/ibarin/issues/10)
-- 💯 Maximize lighthouse score [#11](https://github.com/adeka-factory/ibarin/issues/11)
-- ⚙️ PSI reports [#11](https://github.com/adeka-factory/ibarin/issues/11)
-
-### Developer feature
-
-- 🔥 Next.js for Static Site Generator
-- 🎨 Integrate with Tailwind CSS
-- 💅 PostCSS for processing Tailwind CSS
-- 🛠 Code Formatter with Prettier
-- 🦊 SEO metadata, JSON-LD and Open Graph tags with Next SEO [#10](https://github.com/adeka-factory/ibarin/issues/10)
-- ⚙️ Bundler Analyzer [#8](https://github.com/adeka-factory/ibarin/issues/8)
-
-
-## 🚀 Quick start
-
-> A nodejs >= 6.0.0 setup with [yarn](https://yarnpkg.com/) is recommended.
-
-1.  **Start developing.**
-
-    Move to project's directory.
-
-    ```bash
-    cd project-name/
-    ```
-
-    Start your site.
-
-    ```bash
-    # using npm
+2.  **Run Development Server**:
+    `ash
     npm run dev
+    ` 
+    Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-    # using yarn
-    yarn dev
-    ```
+## How to Edit Content
 
-    Open source code using your favorite IDE/Text editor and navigate to root` directory, this is where your application live.
+### Notifications / Announcements
+The notifications on the "Notifications" page are generated from Markdown files located in the 
+otification_updates folder.
 
-2.  **Build your application for production.**
+1.  **Add a new announcement**:
+    *   Create a new .md file in the 
+otification_updates folder.
+    *   The filename will be used as the title (e.g., Registration_Details.md becomes "Registration Details").
+    *   Write the content inside the file using Markdown. You can use bold, italics, lists, and links.
 
-    Once you're finished, you can make production build of your app using:
+2.  **Edit an existing announcement**:
+    *   Open the corresponding .md file in 
+otification_updates.
+    *   Modify the text.
+    *   Save the file. The website will update automatically in development mode.
 
-    ```bash
-    # using npm
+### Schedule
+To edit the schedule, open pages/schedule.js.
+*   Locate the schedule array.
+*   Modify the day, 	ime, or ctivity fields as needed.
+
+### FAQs
+To edit the FAQs, open pages/faq.js.
+*   Locate the aqs array.
+*   Add or modify the objects with q (Question) and  (Answer).
+
+### Home Page
+To edit the home page text, open pages/index.js.
+
+## Deployment (GitHub Pages)
+
+This project is configured for static export to GitHub Pages.
+
+1.  **Build the project**:
+    `ash
     npm run build
+    ` 
+    This command runs 
+ext build followed by 
+ext export.
+    The static files will be generated in the out directory.
 
-    # using yarn
-    yarn build
-    ```
-  
-## 💫 Deployment
+2.  **Push to GitHub**:
+    *   Commit your changes.
+    *   Push to the master branch (or whichever branch is set up for GitHub Pages).
+    *   Ensure your GitHub repository settings for Pages are set to serve from the root (or out folder if you are using a custom workflow, but typically for user sites it's the root of the master branch. Since this is a Next.js app, you might need a GitHub Action to build and deploy to a gh-pages branch).
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fadeka-factory%2Fibarin)
+    **Recommended GitHub Action**:
+    Create a file .github/workflows/nextjs.yml to automatically build and deploy on push.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/adeka-factory/ibarin)
+## Project Structure
 
-Or using custom server, follow this [link](https://nextjs.org/docs/advanced-features/custom-server)
-
-## ✨ Contributors
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://ffadilaputra.space/"><img src="https://avatars.githubusercontent.com/u/6916297?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ivan Fadila Putra</b></sub></a><br /><a href="https://github.com/adeka-factory/ibarin/commits?author=ffadilaputra" title="Documentation">📖</a> <a href="#projectManagement-ffadilaputra" title="Project Management">📆</a> <a href="https://github.com/adeka-factory/ibarin/pulls?q=is%3Apr+reviewed-by%3Affadilaputra" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://naufaldi.xyz"><img src="https://avatars.githubusercontent.com/u/13159420?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Naufaldi</b></sub></a><br /><a href="https://github.com/adeka-factory/ibarin/commits?author=naufaldi" title="Code">💻</a> <a href="https://github.com/adeka-factory/ibarin/pulls?q=is%3Apr+reviewed-by%3Anaufaldi" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/aura-kanza-caesaria-734361163/"><img src="https://avatars.githubusercontent.com/u/18681884?v=4?s=100" width="100px;" alt=""/><br /><sub><b>aura kanza</b></sub></a><br /><a href="#design-aurakanzaa" title="Design">🎨</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+*   pages/: Contains the route definitions (Home, Schedule, Notifications, FAQ).
+*   components/: Reusable React components (Header, Footer, Layout).
+*   public/: Static assets (images, videos, icons).
+*   styles/: CSS files (Tailwind setup).
+*   
+otification_updates/: Markdown files for the announcements.
