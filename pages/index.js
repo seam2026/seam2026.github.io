@@ -15,13 +15,32 @@ export default function Home() {
            </video>
           <div className="absolute h-full w-full bg-dark-450 bg-blur-2px z-0"></div>
           
-          <div className="flex flex-col w-full text-white text-center h-auto px-8 py-3.5 z-10 mt-10">
+          <div className="flex flex-col w-full text-white text-center h-auto px-8 py-3.5 z-10 mt-10 overflow-y-auto pb-20">
             <p className="font-habibi text-xl">Aum Sri Sai Ram</p>
             <h4 className="font-playfair font-bold text-5xl mb-4 mt-6">
               SEAM 2026
             </h4>
             <p className="font-habibi">Sai Europe Alumni Meet</p>
             <p className="font-habibi mt-2">1st - 4th May 2026</p>
+
+            <div className="mt-8 bg-dark-500 bg-opacity-80 p-6 rounded-xl border border-white border-opacity-20">
+                <h3 className="text-xl font-bold mb-4">Event Details</h3>
+                <p className="mb-2 text-sm"><strong>Dates:</strong> 1st May to 4th May, 2026</p>
+                <p className="mb-2 text-sm"><strong>Location:</strong> Grischalodge, Parpan, Switzerland</p>
+                <p className="mb-6 text-sm"><strong>Address:</strong> Hauptstrasse 22, 7076 Parpan, Switzerland</p>
+                
+                <div className="flex flex-col gap-3">
+                    <a href="#" className="px-6 py-2 bg-white text-dark-500 rounded-full font-bold hover:bg-gray-200 transition text-sm">
+                        Register Now
+                    </a>
+                    <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NDAxMmwwaG80ZmJ1aG9kMmg5dmpyNWxxb2ogc2l2YXJhdG5ha2FyLmltbWFkaUBt&tmsrc=sivaratnakar.immadi%40gmail.com" target="_blank" className="px-6 py-2 border border-white rounded-full hover:bg-white hover:text-dark-500 transition text-sm">
+                        Add to Google Calendar
+                    </a>
+                    <a href="/SEAM2026.ics" className="px-6 py-2 border border-white rounded-full hover:bg-white hover:text-dark-500 transition text-sm">
+                        Download iCal
+                    </a>
+                </div>
+            </div>
           </div>
         </section>
 
