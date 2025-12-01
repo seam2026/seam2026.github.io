@@ -26,14 +26,14 @@ export default function Home() {
             <div className="mt-8 bg-dark-500 bg-opacity-80 p-6 rounded-xl border border-white border-opacity-20">
                 <h3 className="text-xl font-bold mb-4">Event Details</h3>
                 <p className="mb-2 text-sm"><strong>Dates:</strong> 1st May to 4th May, 2026</p>
-                <p className="mb-2 text-sm"><strong>Location:</strong> Grischalodge, Parpan, Switzerland</p>
+                <p className="mb-2 text-sm"><strong>Location:</strong> <a href="https://maps.app.goo.gl/B39EJi1zC4Un6nKz9" target="_blank" rel="noopener noreferrer" className="underline hover:text-gray-300">Grischalodge, Parpan, Switzerland</a></p>
                 <p className="mb-6 text-sm"><strong>Address:</strong> Hauptstrasse 22, 7076 Parpan, Switzerland</p>
                 
                 <div className="flex flex-col gap-3">
                     <a href="#" className="px-6 py-2 bg-white text-dark-500 rounded-full font-bold hover:bg-gray-200 transition text-sm">
                         Register Now
                     </a>
-                    <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NDAxMmwwaG80ZmJ1aG9kMmg5dmpyNWxxb2ogc2l2YXJhdG5ha2FyLmltbWFkaUBt&tmsrc=sivaratnakar.immadi%40gmail.com" target="_blank" className="px-6 py-2 border border-white rounded-full hover:bg-white hover:text-dark-500 transition text-sm">
+                    <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=SEAM+2026+-+Sai+Europe+Alumni+Meet&dates=20260501/20260505&details=Sai+Europe+Alumni+Meet+2026.+Reconnect+and+rejoice+the+spirit+of+unity+and+devotion.%0A%0AFor+more+details,+visit+https://seam2026.github.io/&location=Grischalodge,+Hauptstrasse+22,+7076+Parpan,+Switzerland" target="_blank" className="px-6 py-2 border border-white rounded-full hover:bg-white hover:text-dark-500 transition text-sm">
                         Add to Google Calendar
                     </a>
                     <a href="/seam_2026.ics" download className="px-6 py-2 border border-white rounded-full hover:bg-white hover:text-dark-500 transition text-sm">
@@ -64,14 +64,14 @@ export default function Home() {
             <div className="bg-dark-500 bg-opacity-80 p-8 rounded-xl max-w-2xl mx-auto border border-white border-opacity-20">
                 <h3 className="text-2xl font-bold mb-4">Event Details</h3>
                 <p className="mb-2"><strong>Dates:</strong> 1st May to 4th May, 2026</p>
-                <p className="mb-2"><strong>Location:</strong> Grischalodge, Parpan, Switzerland</p>
+                <p className="mb-2"><strong>Location:</strong> <a href="https://maps.app.goo.gl/B39EJi1zC4Un6nKz9" target="_blank" rel="noopener noreferrer" className="underline hover:text-gray-300">Grischalodge, Parpan, Switzerland</a></p>
                 <p className="mb-6"><strong>Address:</strong> Hauptstrasse 22, 7076 Parpan, Switzerland</p>
                 
                 <div className="flex justify-center gap-4 flex-wrap">
                     <a href="#" className="px-6 py-2 bg-white text-dark-500 rounded-full font-bold hover:bg-gray-200 transition">
                         Register Now
                     </a>
-                    <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NDAxMmwwaG80ZmJ1aG9kMmg5dmpyNWxxb2ogc2l2YXJhdG5ha2FyLmltbWFkaUBt&tmsrc=sivaratnakar.immadi%40gmail.com" target="_blank" className="px-6 py-2 border border-white rounded-full hover:bg-white hover:text-dark-500 transition">
+                    <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=SEAM+2026+-+Sai+Europe+Alumni+Meet&dates=20260501/20260505&details=Sai+Europe+Alumni+Meet+2026.+Reconnect+and+rejoice+the+spirit+of+unity+and+devotion.%0A%0AFor+more+details,+visit+https://seam2026.github.io/&location=Grischalodge,+Hauptstrasse+22,+7076+Parpan,+Switzerland" target="_blank" className="px-6 py-2 border border-white rounded-full hover:bg-white hover:text-dark-500 transition">
                         Add to Google Calendar
                     </a>
                     <a href="/seam_2026.ics" download className="px-6 py-2 border border-white rounded-full hover:bg-white hover:text-dark-500 transition">
