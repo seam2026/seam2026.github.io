@@ -6,8 +6,8 @@ const Header = () => {
   return (
     <div className="hidden lg:block fixed top-0 right-0 left-0 bg-transparent px-8 z-20">
       <div className="max-w-screen-2xl w-full mx-auto flex justify-between items-center pt-4">
-        {/* Logo - Top Left, links to Information */}
-        <Link href="/information">
+        {/* Logo - Top Left, links to Home */}
+        <Link href="/">
           <a className="cursor-pointer bg-white p-2 rounded-full shadow-lg hover:bg-gray-100 transition">
              <Logo className="h-8 w-8 text-dark-500" />
           </a>
