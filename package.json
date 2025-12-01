@@ -19,6 +19,7 @@
     "tailwindcss": "^4.1.17"
   },
   "devDependencies": {
+    "@svgr/webpack": "^8.1.0",
     "all-contributors-cli": "^6.26.1",
     "babel-plugin-inline-react-svg": "^2.0.2"
   }
