@@ -36,7 +36,7 @@ export default function Home() {
                     <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NDAxMmwwaG80ZmJ1aG9kMmg5dmpyNWxxb2ogc2l2YXJhdG5ha2FyLmltbWFkaUBt&tmsrc=sivaratnakar.immadi%40gmail.com" target="_blank" className="px-6 py-2 border border-white rounded-full hover:bg-white hover:text-dark-500 transition text-sm">
                         Add to Google Calendar
                     </a>
-                    <a href="/SEAM2026.ics" className="px-6 py-2 border border-white rounded-full hover:bg-white hover:text-dark-500 transition text-sm">
+                    <a href="/seam_2026.ics" download className="px-6 py-2 border border-white rounded-full hover:bg-white hover:text-dark-500 transition text-sm">
                         Download iCal
                     </a>
                 </div>
@@ -74,7 +74,7 @@ export default function Home() {
                     <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NDAxMmwwaG80ZmJ1aG9kMmg5dmpyNWxxb2ogc2l2YXJhdG5ha2FyLmltbWFkaUBt&tmsrc=sivaratnakar.immadi%40gmail.com" target="_blank" className="px-6 py-2 border border-white rounded-full hover:bg-white hover:text-dark-500 transition">
                         Add to Google Calendar
                     </a>
-                    <a href="/SEAM2026.ics" className="px-6 py-2 border border-white rounded-full hover:bg-white hover:text-dark-500 transition">
+                    <a href="/seam_2026.ics" download className="px-6 py-2 border border-white rounded-full hover:bg-white hover:text-dark-500 transition">
                         Download iCal
                     </a>
                 </div>
