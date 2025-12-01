@@ -22,9 +22,9 @@ export default function Information({ announcements }) {
         
         <div className="max-w-3xl mx-auto space-y-4">
           {announcements.map((announcement, index) => (
-            <div key={index} className="border border-white border-opacity-30 rounded-lg overflow-hidden bg-dark-450">
+            <div key={index} className="border border-white/30 rounded-lg overflow-hidden bg-dark-450">
               <button
-                className="w-full px-6 py-4 text-left font-habibi text-xl flex justify-between items-center hover:bg-white hover:bg-opacity-5 transition"
+                className="w-full px-6 py-4 text-left font-habibi text-xl flex justify-between items-center hover:bg-white/5 transition cursor-pointer"
                 onClick={() => toggleAccordion(index)}
               >
                 <span>{announcement.title}</span>
@@ -32,7 +32,7 @@ export default function Information({ announcements }) {
               </button>
               
               {openIndex === index && (
-                <div className="px-6 py-6 bg-dark-500 border-t border-white border-opacity-10">
+                <div className="px-6 py-6 bg-dark-500 border-t border-white/10">
                   <div className="prose prose-invert max-w-none font-sans">
                     <ReactMarkdown>{announcement.content}</ReactMarkdown>
                   </div>
