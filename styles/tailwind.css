@@ -25,3 +25,9 @@ html {
 p {
   @apply tracking-wide;
 }
+
+html,
+body,
+#__next {
+  background-color: #0f172a;
+}
