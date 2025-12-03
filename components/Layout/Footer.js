@@ -10,7 +10,7 @@ const Footer = () => {
   const [showSchedulePopup, setShowSchedulePopup] = useState(false);
 
   return (
-    <div className="fixed lg:hidden bottom-0 mb-1 mx-1 right-0 left-0 z-20">
+    <div className="fixed lg:hidden bottom-0 mb-0 right-0 left-0 z-20">
       {/* Schedule Popup */}
       {/* {showSchedulePopup && (
         <div className="absolute bottom-20 left-0 right-0 flex justify-center z-30">
@@ -37,7 +37,7 @@ const Footer = () => {
         </div>
       )} */}
 
-      <div className="bg-dark-500 w-full px-6 rounded-full shadow border-opacity-20 border border-white">
+      <div className="bg-dark-500 w-full px-6 rounded-full border border-white/20 z-30 relative">
         <ul className="flex items-center justify-evenly text-white text-xs font-light py-2 md:py-3">
           <Link href="/">
             <li className="flex items-center font-medium flex-col px-2 py-1 cursor-pointer" onClick={() => setShowSchedulePopup(false)}>
@@ -75,6 +75,9 @@ const Footer = () => {
             </li>
           </Link>
         </ul>
+      </div>
+
+      <div class="bottom-0 left-0 right-0 h-6 bg-dark-500 z-20 absolute">
       </div>
       
       {/* Click outside to close */}
