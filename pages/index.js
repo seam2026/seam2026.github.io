@@ -33,8 +33,8 @@ export default function Home() {
               <p className="mb-6 text-sm"><strong>Address:</strong> Hauptstrasse 22, 7076 Parpan, Switzerland</p>
               
               <div className="flex flex-col gap-3">
-                  <a href="#" className="px-6 py-2 bg-white text-dark-500 rounded-full font-bold hover:bg-gray-200 transition text-sm">
-                      Register Now
+                  <a href="https://form.jotform.com/253343514613047" target="_blank" rel="noopener noreferrer" className="px-6 py-2 bg-white text-dark-500 rounded-full font-bold hover:bg-gray-200 transition text-sm">
+                    Register Now
                   </a>
                   <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=SEAM+2026+-+Sai+Europe+Alumni+Meet&dates=20260501/20260505&details=Sai+Europe+Alumni+Meet+2026.+Reconnect+and+rejoice+the+spirit+of+unity+and+devotion.%0A%0AFor+more+details,+visit+https://seam2026.github.io/&location=Grischalodge,+Hauptstrasse+22,+7076+Parpan,+Switzerland" target="_blank" className="px-6 py-2 border border-white rounded-full hover:bg-white hover:text-dark-500 transition text-sm">
                       Add to Google Calendar
@@ -89,8 +89,8 @@ export default function Home() {
               <p className="mb-6"><strong>Address:</strong> Hauptstrasse 22, 7076 Parpan, Switzerland</p>
               
               <div className="flex justify-center gap-4 flex-wrap">
-                  <a href="#" className="px-6 py-2 bg-white text-dark-500 rounded-full font-bold hover:bg-gray-200 transition">
-                      Register Now
+                  <a href="https://form.jotform.com/253343514613047" target="_blank" rel="noopener noreferrer" className="px-6 py-2 bg-white text-dark-500 rounded-full font-bold hover:bg-gray-200 transition">
+                    Register Now
                   </a>
                   <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=SEAM+2026+-+Sai+Europe+Alumni+Meet&dates=20260501/20260505&details=Sai+Europe+Alumni+Meet+2026.+Reconnect+and+rejoice+the+spirit+of+unity+and+devotion.%0A%0AFor+more+details,+visit+https://seam2026.github.io/&location=Grischalodge,+Hauptstrasse+22,+7076+Parpan,+Switzerland" target="_blank" className="px-6 py-2 border border-white rounded-full hover:bg-white hover:text-dark-500 transition">
                       Add to Google Calendar
