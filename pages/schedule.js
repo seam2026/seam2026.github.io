@@ -19,6 +19,7 @@ export default function Schedule() {
     {
       day: "Day 1 (1st May 2026)",
       events: [
+        { time: "00:00 AM", activity: "Below are mock activities and true schedule will soon be uploaded" },
         { time: "10:00 AM", activity: "Arrival and Registration" },
         { time: "12:00 PM", activity: "Welcome Lunch" },
         { time: "2:00 PM", activity: "Opening Ceremony" },
@@ -30,11 +31,11 @@ export default function Schedule() {
       day: "Day 2 (2nd May 2026)",
       events: [
         { time: "8:00 AM", activity: "Breakfast" },
-        { time: "9:00 AM", activity: "Spiritual Session" },
+        { time: "9:00 AM", activity: "Bhajan Session" },
         { time: "11:00 AM", activity: "Group Discussions" },
         { time: "1:00 PM", activity: "Lunch" },
         { time: "3:00 PM", activity: "Outdoor Activities" },
-        { time: "7:00 PM", activity: "Dinner and Talent Show" }
+        { time: "7:00 PM", activity: "Dinner and Hanuman Chalisa" }
       ]
     },
     {
@@ -42,10 +43,10 @@ export default function Schedule() {
       events: [
         { time: "8:00 AM", activity: "Breakfast" },
         { time: "9:00 AM", activity: "Guest Speaker Session" },
-        { time: "11:00 AM", activity: "Workshop Sessions" },
+        { time: "11:00 AM", activity: "Bhajan Sessions" },
         { time: "1:00 PM", activity: "Lunch" },
         { time: "3:00 PM", activity: "Free Time / Networking" },
-        { time: "7:00 PM", activity: "Gala Dinner and Awards" }
+        { time: "7:00 PM", activity: "Bhajan and Bhojan" }
       ]
     },
     {
@@ -62,6 +63,7 @@ export default function Schedule() {
     {
       day: "Day 1 (1st May 2026)",
       items: [
+        { time: "10:00 AM - Snacks", description: "These are mock Menu. Not the final Menu" },
         { time: "12:00 PM - Lunch", description: "Paneer Butter Masala, Dal Tadka, Jeera Rice, Naan, Gulab Jamun" },
         { time: "7:00 PM - Dinner", description: "Vegetable Biryani, Raita, Mixed Veg Curry, Chapati, Kheer" }
       ]
