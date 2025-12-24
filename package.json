@@ -17,10 +17,12 @@
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "react-markdown": "^10.1.0",
+    "remark-breaks": "^4.0.0",
     "tailwindcss": "^4.1.17"
   },
   "devDependencies": {
     "@svgr/webpack": "^8.1.0",
+    "@tailwindcss/typography": "^0.5.19",
     "all-contributors-cli": "^6.26.1",
     "babel-plugin-inline-react-svg": "^2.0.2"
   }

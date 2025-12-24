@@ -4,6 +4,7 @@ import Layout from '@/components/Layout/Layout';
 import fs from 'fs';
 import path from 'path';
 import ReactMarkdown from 'react-markdown';
+import remarkBreaks from 'remark-breaks';
 
 export default function Information({ announcements }) {
   const [openIndex, setOpenIndex] = useState(null);
@@ -34,7 +35,21 @@ export default function Information({ announcements }) {
               {openIndex === index && (
                 <div className="px-6 py-6 bg-dark-500 border-t border-white/10">
                   <div className="prose prose-invert max-w-none font-sans">
-                    <ReactMarkdown>{announcement.content}</ReactMarkdown>
+                    <ReactMarkdown 
+                      remarkPlugins={[remarkBreaks]}
+                      components={{
+                        a: ({node, ...props}) => (
+                          <a 
+                            className="text-blue-400 hover:text-blue-300 underline" 
+                            target="_blank" 
+                            rel="noopener noreferrer" 
+                            {...props} 
+                          />
+                        )
+                      }}
+                    >
+                      {announcement.content}
+                    </ReactMarkdown>
                   </div>
                 </div>
               )}

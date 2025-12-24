@@ -1,6 +1,5 @@
-### Registration Fees and Payment Details
+Please register for SEAM 2026 through our [online registration portal](https://eu.jotform.com/form/253343514613047) by **February 28th, 2026**
 
-Please register for SEAM 2026 through our [online registration portal](https://eu.jotform.com/form/253343514613047) by **February 28th, 2026**.
 Home page of this website contains a direct link to the registration portal.
 
 **Registration Fees:**
