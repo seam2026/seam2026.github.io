@@ -1,6 +1,6 @@
 Please register for SEAM 2026 through our [online registration portal](https://eu.jotform.com/form/253343514613047) by **February 28th, 2026**
 
-Home page of this website contains a direct link to the registration portal.
+Home page of this website contains a direct link to the registration portal as well.
 
 **Registration Fees:**
 After careful consideration, we have set the registration fee at **170 CHF per person**. This amount covers accomodation and food.
