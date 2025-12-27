@@ -38,14 +38,14 @@ export default function Home() {
           {/* <div className="flex flex-col w-full text-deep-pink dark:text-white text-center h-auto px-8 z-10 justify-center flex-grow transition-colors duration-300"> */}
           <div className="flex flex-col w-full text-gray-900 dark:text-white text-center h-auto px-8 z-10 justify-center flex-grow transition-colors duration-300">
             <p className="font-habibi text-xl">Aum Sri Sai Ram</p>
-            <h4 className="font-playfair font-bold text-5xl mb-4 mt-6 text-shadow-outline dark:text-shadow-none">
+            <h4 className="font-playfair font-bold text-4xl mb-2 mt-4 text-shadow-outline dark:text-shadow-none">
               SEAM 2026
             </h4>
             <p className="font-habibi">Sai Europe Alumni Meet</p>
             <p className="font-habibi mt-2">1st - 4th May 2026</p>
           </div>
 
-          <div className="mx-4 bg-light-surface/60 dark:bg-dark-500/13 p-6 rounded-xl border border-deep-pink/10 dark:border-white/20 text-deep-pink dark:text-white text-center z-10 pb-20 backdrop-blur-sm transition-all duration-300">
+          <div className="mx-4 bg-light-surface/10 dark:bg-dark-500/13 p-4 rounded-xl border border-deep-pink/10 dark:border-white/20 text-deep-pink dark:text-white text-center z-10 pb-16 backdrop-blur-sm transition-all duration-300">
               <h3 className="text-xl font-bold mb-4">Event Details</h3>
               <p className="mb-2 text-sm"><strong>Dates:</strong> 1st May to 4th May, 2026</p>
               <p className="mb-2 text-sm"><strong>Location:</strong> <a href="https://maps.app.goo.gl/B39EJi1zC4Un6nKz9" target="_blank" rel="noopener noreferrer" className="underline hover:text-pink-600 dark:hover:text-gray-300">Grischalodge, Parpan, Switzerland</a></p>
