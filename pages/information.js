@@ -18,14 +18,14 @@ export default function Information({ announcements }) {
       <Head>
         <title>Information - SEAM 2026</title>
       </Head>
-      <div className="min-h-screen pt-24 pb-24 px-4 lg:px-8 text-white">
+      <div className="min-h-screen pt-24 pb-24 px-4 lg:px-8 text-gray-900 dark:text-white transition-colors duration-300">
         <h1 className="text-4xl font-great-vibes text-center mb-12">Information</h1>
         
         <div className="max-w-3xl mx-auto space-y-4">
           {announcements.map((announcement, index) => (
-            <div key={index} className="border border-white/30 rounded-lg overflow-hidden bg-dark-450">
+            <div key={index} className="border border-gray-200 dark:border-white/30 rounded-lg overflow-hidden bg-light-surface/80 dark:bg-dark-450 shadow-sm dark:shadow-none transition-colors duration-300">
               <button
-                className="w-full px-6 py-4 text-left font-habibi text-xl flex justify-between items-center hover:bg-white/5 transition cursor-pointer"
+                className="w-full px-6 py-4 text-left font-habibi text-xl flex justify-between items-center hover:bg-gray-100 dark:hover:bg-white/5 transition cursor-pointer"
                 onClick={() => toggleAccordion(index)}
               >
                 <span>{announcement.title}</span>
@@ -33,14 +33,14 @@ export default function Information({ announcements }) {
               </button>
               
               {openIndex === index && (
-                <div className="px-6 py-6 bg-dark-500 border-t border-white/10">
-                  <div className="prose prose-invert max-w-none font-sans">
+                <div className="px-6 py-6 bg-light-surface dark:bg-dark-500 border-t border-gray-200 dark:border-white/10 transition-colors duration-300">
+                  <div className="prose dark:prose-invert max-w-none font-sans">
                     <ReactMarkdown 
                       remarkPlugins={[remarkBreaks]}
                       components={{
                         a: ({node, ...props}) => (
                           <a 
-                            className="text-blue-400 hover:text-blue-300 underline" 
+                            className="text-blue-600 dark:text-blue-400 hover:text-blue-500 dark:hover:text-blue-300 underline" 
                             target="_blank" 
                             rel="noopener noreferrer" 
                             {...props} 
@@ -57,7 +57,7 @@ export default function Information({ announcements }) {
           ))}
           
           {announcements.length === 0 && (
-            <p className="text-center text-gray-400">No announcements at this time.</p>
+            <p className="text-center text-gray-500 dark:text-gray-400">No announcements at this time.</p>
           )}
         </div>
       </div>

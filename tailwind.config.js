@@ -1,6 +1,7 @@
 const defaultTheme = require('tailwindcss/defaultTheme');
 
 module.exports = {
+  darkMode: 'class',
   purge: [
     './pages/*.js',
     './pages/**/*.js',
@@ -20,6 +21,8 @@ module.exports = {
     },
     extend: {
       colors: {
+        'light-bg': '#fff0f5', // Lavender Blush - Light Pink
+        'light-surface': '#FFF9C4', // Mimosa/Light Yellow
         'grey-chez': {
           300: '#CBCFCD',
           400: '#9BA19A',
@@ -35,11 +38,15 @@ module.exports = {
         'blue-accent': '#38bdf8',
         'yellow-accent': '#facc15',
         'pink-accent': '#f472b6',
+        'deep-pink': '#9d174d', // Deep Pink for text
       },
       gridTemplateRows: {
         // Simple 8 row grid
 
         7: 'repeat(7, minmax(0, 1fr))',
+      },
+      textShadow: {
+        'outline': '1px 1px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000',
       },
       height: {
         'screen-plus': 'calc(100vh + 9rem)',
