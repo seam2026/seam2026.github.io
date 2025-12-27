@@ -38,7 +38,7 @@ export default function Home() {
           {/* <div className="flex flex-col w-full text-deep-pink dark:text-white text-center h-auto px-8 z-10 justify-center flex-grow transition-colors duration-300"> */}
           <div className="flex flex-col w-full text-gray-900 dark:text-white text-center h-auto px-8 z-10 pt-28 flex-grow transition-colors duration-300">
             <p className="font-habibi text-xl">Aum Sri Sai Ram</p>
-            <h4 className="font-playfair font-bold text-3xl mb-2 mt-4 text-shadow-outline dark:text-shadow-none">
+            <h4 className="font-playfair font-bold text-3xl mb-2 mt-4">
               SEAM 2026
             </h4>
             <p className="font-habibi">Sai Europe Alumni Meet</p>
