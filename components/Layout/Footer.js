@@ -56,20 +56,20 @@ const Footer = () => {
           </li>
           */}
           <Link href="/schedule">
-            <li className="flex items-center flex-col px-2 py-1 cursor-pointer">
+            <li className="flex items-center flex-col px-2 py-1 cursor-pointer hover:text-pink-accent dark:hover:text-gray-300 transition-colors">
               <CalenderIcon className="h-6 w-6 mb-1" />
               <p>Schedule</p>
             </li>
           </Link>
 
           <Link href="/information">
-            <li className="flex items-center flex-col px-2 py-1 cursor-pointer" onClick={() => setShowSchedulePopup(false)}>
+            <li className="flex items-center flex-col px-2 py-1 cursor-pointer hover:text-pink-accent dark:hover:text-gray-300 transition-colors" onClick={() => setShowSchedulePopup(false)}>
               <ChatIcon className="h-6 w-6 mb-1" />
               <p>Info</p>
             </li>
           </Link>
           <Link href="/faq">
-            <li className="flex items-center flex-col px-2 py-1 cursor-pointer" onClick={() => setShowSchedulePopup(false)}>
+            <li className="flex items-center flex-col px-2 py-1 cursor-pointer hover:text-pink-accent dark:hover:text-gray-300 transition-colors" onClick={() => setShowSchedulePopup(false)}>
               <QuestionIcon className="h-6 w-6 mb-1" />
               <p>FAQ</p>
             </li>
@@ -77,7 +77,7 @@ const Footer = () => {
         </ul>
       </div>
 
-      <div class="bottom-0 left-0 right-0 h-6 bg-dark-500 z-20 absolute">
+      <div className="bottom-0 left-0 right-0 h-6 bg-light-surface dark:bg-dark-500 z-20 absolute transition-colors duration-300">
       </div>
       
       {/* Click outside to close */}
