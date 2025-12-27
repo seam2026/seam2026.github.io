@@ -6,7 +6,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <ThemeProvider>
       <Head>
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
         {/* Theme color meta tag can be dynamic if needed, but setting a neutral one or handling via JS is fine */}
         <meta name="theme-color" content="#0f172a" /> 
         <meta name="description" content="Sai Europe Alumni Meet 2026" />

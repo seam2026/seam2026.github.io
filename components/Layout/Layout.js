@@ -14,7 +14,7 @@ const Layout = ({ children }) => {
         </div>
       </div>
       
-      <div className="w-full h-full min-h-[100dvh] transition-colors duration-300">
+      <div className="w-full transition-colors duration-300">
         <div className="mx-auto">{children}</div>
       </div>
       <Footer />
