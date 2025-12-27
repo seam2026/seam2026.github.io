@@ -42,7 +42,7 @@ const Footer = () => {
         </div>
       )} */}
 
-      <div className="bg-light-surface dark:bg-dark-500 w-full px-6 rounded-full border border-gray-200 dark:border-white/20 z-30 relative shadow-lg dark:shadow-none transition-colors duration-300">
+      <div className="bg-light-surface dark:bg-dark-500 w-full px-6 rounded-full border border-gray-900/20 dark:border-white/20 z-30 relative shadow-lg dark:shadow-none transition-colors duration-300">
         <ul className="flex items-center justify-evenly text-gray-900 dark:text-white text-xs font-light py-2 md:py-3">
           <Link href="/">
             <li className="flex items-center font-medium flex-col px-2 py-1 cursor-pointer hover:text-pink-accent dark:hover:text-gray-300 transition-colors" onClick={() => setShowSchedulePopup(false)}>
