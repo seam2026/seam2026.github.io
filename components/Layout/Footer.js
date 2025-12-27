@@ -81,9 +81,6 @@ const Footer = () => {
           </Link>
         </ul>
       </div>
-
-      <div className="bottom-0 left-0 right-0 h-6 bg-light-surface dark:bg-dark-500 z-20 absolute transition-colors duration-300">
-      </div>
       
       {/* Click outside to close */}
       {/* {showSchedulePopup && (
