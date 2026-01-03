@@ -8,7 +8,6 @@ After careful consideration, we have set the registration fee at **170 CHF per p
 **Payment Methods:**
 We accept payment via Wise, Revolut, Twint, and bank transfers.
 Wise: @satyar41
-Revolut: @satya..
 Twint: +41 799092749
 Bank Transfer:
 (EUR account)
@@ -18,4 +17,4 @@ IBAN: BE93 9673 0807 2467
 Bank Name and Address: Wise Rue du Trone 100, 3rd Floor, 1050 Brussels, Belgium
 
 **Payment Deadline:**
-Please complete your payment by **March 15th, 2026** to confirm your registration.
+Please complete your payment by **March xx, 2026** to confirm your registration.
