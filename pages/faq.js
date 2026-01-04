@@ -13,7 +13,7 @@ export default function FAQ() {
     },
     { 
       q: "What is the registration fee?", 
-      a: "The registration fee is 170 CHF per person." 
+      a: "The registration fee is tentatively 150-170 CHF and final fee will be communicated in due course." 
     },
     { 
       q: "How do I register?", 

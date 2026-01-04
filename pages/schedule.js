@@ -20,8 +20,8 @@ export default function Schedule() {
       day: "Day 1 (1st May 2026)",
       events: [
         { time: "00:00 AM", activity: "Below are mock activities and true schedule will soon be uploaded" },
-        { time: "10:00 AM", activity: "Arrival and Registration" },
-        { time: "12:00 PM", activity: "Welcome Lunch" },
+        { time: "11:00 AM", activity: "Venue opening for arrival and registration" },
+        { time: "12:00 PM", activity: "Lunch" },
         { time: "2:00 PM", activity: "Opening Ceremony" },
         { time: "4:00 PM", activity: "Icebreaker Activities" },
         { time: "7:00 PM", activity: "Dinner and Cultural Program" }
@@ -54,7 +54,10 @@ export default function Schedule() {
       events: [
         { time: "8:00 AM", activity: "Breakfast" },
         { time: "9:00 AM", activity: "Closing Ceremony" },
-        { time: "11:00 AM", activity: "Departure" }
+        { time: "11:00 AM", activity: "Departure" },
+        { time: "12:00 PM", activity: "Lunch" },
+        { time: "12:30 PM", activity: "Venue Cleaning and Wrap-up" },
+        { time: "2:00 PM", activity: "Departure" }
       ]
     }
   ];
@@ -119,6 +122,9 @@ export default function Schedule() {
         </div>
         
         <div className="max-w-4xl mx-auto grid gap-8 md:grid-cols-2">
+          <div className="md:col-span-2 text-center mb-4">
+            <p className="text-sm italic text-gray-600 dark:text-gray-400">This is tentative and the final details will be confirmed closer to the event date</p>
+          </div>
           {activeTab === 'events' ? (
             schedule.map((day, idx) => (
               <div key={idx} className="bg-light-surface/80 dark:bg-dark-450 p-6 rounded-xl border border-gray-200 dark:border-white/20 shadow-lg transition-colors duration-300">
@@ -134,6 +140,10 @@ export default function Schedule() {
               </div>
             ))
           ) : (
+            // Menu is currently disabled.
+            // To enable it, uncomment the code below and remove the 'null'
+            null
+            /*
             menu.map((day, idx) => (
               <div key={idx} className="bg-light-surface/80 dark:bg-dark-450 p-6 rounded-xl border border-gray-200 dark:border-white/20 shadow-lg transition-colors duration-300">
                 <h2 className="text-xl font-habibi text-yellow-600 dark:text-yellow-accent mb-4 border-b border-gray-200 dark:border-gray-600 pb-2">{day.day}</h2>
@@ -147,6 +157,7 @@ export default function Schedule() {
                 </ul>
               </div>
             ))
+            */
           )}
         </div>
       </div>
