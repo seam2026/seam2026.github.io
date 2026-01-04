@@ -10,12 +10,12 @@ const Header = () => {
         <div className="flex items-center gap-4">
           <Link
             href="/"
-            className="cursor-pointer bg-white p-2 rounded-full shadow-lg hover:bg-gray-100 transition"
+            className="cursor-pointer rounded-full shadow-lg hover:opacity-80 transition"
           >
             <img
               src="/assets/icons/final_logo_small.svg"
               alt="SEAM 2026 Logo"
-              className="h-8 w-8"
+              className="h-12 w-12"
             />
           </Link>
         </div>
