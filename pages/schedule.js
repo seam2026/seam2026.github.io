@@ -19,7 +19,6 @@ export default function Schedule() {
     {
       day: "Day 1 (1st May 2026)",
       events: [
-        { time: "00:00 AM", activity: "Below are mock activities and true schedule will soon be uploaded" },
         { time: "11:00 AM", activity: "Venue opening for arrival and registration" },
         { time: "12:00 PM", activity: "Lunch" },
         { time: "2:00 PM", activity: "Opening Ceremony" },
@@ -66,7 +65,6 @@ export default function Schedule() {
     {
       day: "Day 1 (1st May 2026)",
       items: [
-        { time: "10:00 AM - Snacks", description: "These are mock Menu. Not the final Menu" },
         { time: "12:00 PM - Lunch", description: "Paneer Butter Masala, Dal Tadka, Jeera Rice, Naan, Gulab Jamun" },
         { time: "7:00 PM - Dinner", description: "Vegetable Biryani, Raita, Mixed Veg Curry, Chapati, Kheer" }
       ]
