@@ -15,7 +15,7 @@ const Layout = ({ children }) => {
           className="cursor-pointer rounded-full shadow-lg hover:opacity-80 transition"
         >
           <img
-            src="/assets/icons/final_logo_small.svg"
+            src="/assets/icons/final_logo_3.svg"
             alt="SEAM 2026 Logo"
             className="h-12 w-12"
           />

@@ -6,9 +6,19 @@ import { useEffect, useState } from 'react';
 export default function Home() {
   const { theme } = useTheme();
   const [mounted, setMounted] = useState(false);
+  const [isMobile, setIsMobile] = useState(false);
 
   useEffect(() => {
     setMounted(true);
+    const handleResize = () => {
+      setIsMobile(window.innerWidth < 1024);
+    };
+    
+    // Initial check
+    handleResize();
+    
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
   }, []);
 
   // Prevent hydration mismatch
@@ -21,16 +31,16 @@ export default function Home() {
       </Head>
       <Layout>
         {/* Mobile Video Background Section */}
+        {isMobile && (
         <section id='home' className="flex lg:hidden w-full h-dvh relative overflow-hidden flex-col justify-between">
           <video 
-            key={theme} // Force re-render when theme changes
             autoPlay 
             loop 
             muted 
             playsInline 
             className="absolute w-full h-full object-cover z-0"
           >
-            <source src={theme === 'light' ? "/assets/video_mobile_light.mp4" : "/assets/video_mobile.mp4"} type="video/mp4" />
+            <source src="/assets/video_mobile.mp4" type="video/mp4" />
           </video>
           
           <div className="absolute h-full w-full bg-white/40 dark:bg-dark-450/60 z-0 transition-colors duration-300"></div>
@@ -65,8 +75,10 @@ export default function Home() {
           </div>
 
         </section>
+        )}
 
         {/* Desktop Video Background Section */}
+        {!isMobile && (
         <section id='home' className='hidden lg:grid h-screen'>
           <div className="bg-white dark:bg-dark-500 py-14 lg:py-0 grid-cols-2 h-screen relative transition-colors duration-300">
             <video autoPlay loop muted playsInline className="absolute top-0 left-0 w-full h-full object-cover z-0 opacity-50">
@@ -99,6 +111,7 @@ export default function Home() {
             </a>
           </div>
         </section>
+        )}
 
         <section id='event-details' className='hidden lg:block'>
           <div className="z-10 bg-light-surface/80 dark:bg-gray-800/30 p-6 max-w-2xl mx-auto border border-deep-pink/20 dark:border-white/20 text-deep-pink dark:text-white text-center shadow-xl backdrop-blur-sm rounded-xl transition-all duration-300">

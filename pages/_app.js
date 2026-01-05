@@ -11,8 +11,8 @@ function MyApp({ Component, pageProps }) {
         <meta name="theme-color" content="#0f172a" /> 
         <meta name="description" content="Sai Europe Alumni Meet 2026" />
         <link rel="manifest" href="/manifest.json" />
-        <link rel="apple-touch-icon" href="/assets/icons/final_logo_small.svg?v=3" />
-        <link rel="icon" href="/assets/icons/final_logo_small.svg?v=3" type="image/svg+xml" />
+        <link rel="apple-touch-icon" href="/assets/icons/final_logo_3.svg" />
+        <link rel="icon" href="/assets/icons/final_logo_3.svg" type="image/svg+xml" />
       </Head>
       <Component {...pageProps} />
     </ThemeProvider>

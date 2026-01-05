@@ -53,7 +53,9 @@ export default function FAQ() {
         <title>FAQs & Contact - SEAM 2026</title>
       </Head>
       <div className="min-h-screen pt-24 px-4 lg:px-8 text-gray-900 dark:text-white transition-colors duration-300">
-        <h1 className="text-4xl font-great-vibes text-center mb-12">FAQs & Contact</h1>
+        <h1 className="text-4xl text-center mb-12">
+          <span className="font-playfair">FAQs</span> <span className="font-great-vibes">& &nbsp; Contact</span>
+        </h1>
         
         <div className="max-w-xl mx-auto mb-16">
           <h2 className="text-2xl font-habibi mb-6 text-center">Common Questions</h2>
