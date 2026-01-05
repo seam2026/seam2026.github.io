@@ -18,7 +18,7 @@ const Header = () => {
             className="cursor-pointer rounded-full shadow-lg hover:opacity-80 transition"
           >
             <img
-              src="/assets/icons/final_logo_3.svg"
+              src="/assets/icons/final_logo_3.png"
               alt="SEAM 2026 Logo"
               className="h-12 w-12"
             />
