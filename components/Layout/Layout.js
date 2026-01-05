@@ -17,7 +17,7 @@ const Layout = ({ children }) => {
           <img
             src="/assets/icons/final_logo_3.png"
             alt="SEAM 2026 Logo"
-            className="h-12 w-12"
+            className="h-20 w-20"
           />
         </Link>
       </div>
