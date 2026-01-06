@@ -3,7 +3,7 @@ Please register for SEAM 2026 through our [online registration portal](https://e
 Home page of this website contains a direct link to the registration portal as well.
 
 **Registration Fees:**
-The registration fees is expected to be **150-170 CHF per person**. The exact amount will be conveyed in due course. This amount covers accomodation and food.
+The registration fees is expected to be **150-170 CHF per person**. The exact amount will be conveyed in due course. This amount covers accommodation and food.
 
 **Payment Methods:**
 We accept payment via Wise and bank transfers.

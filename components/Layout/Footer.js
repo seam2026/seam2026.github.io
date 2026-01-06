@@ -3,7 +3,7 @@
 import React, { useState } from 'react';
 import Link from 'next/link';
 import HomeIcon from '../../public/assets/icons/home.svg';
-import CalenderIcon from '../../public/assets/icons/calender.svg';
+import CalenderIcon from '../../public/assets/icons/calendar.svg';
 import ChatIcon from '../../public/assets/icons/chat.svg';
 import QuestionIcon from '../../public/assets/icons/question.svg';
 import FoodIcon from '../../public/assets/icons/food.svg';

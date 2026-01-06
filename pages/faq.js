@@ -8,8 +8,8 @@ export default function FAQ() {
       a: "This event is a special gathering for all Sai Student alumni across Europe & UK and their families. It is an opportunity to come together, relive the cherished memories of our student days, and replicate the hostel schedule we all enjoyed, helping us reconnect with that spirit of unity and get closer to Swami." 
     },
     { 
-      q: "Who can attend SEAM 2026?", 
-      a: "All Sai Student alumni from Europe are welcome to attend." 
+      q: "Who can register SEAM 2026?", 
+      a: "All alumni of Sri Sathya Sai educational institutions from Europe and UK are welcome to register." 
     },
     { 
       q: "What is the registration fee?", 
@@ -21,11 +21,11 @@ export default function FAQ() {
     },
     { 
       q: "Whom do I pay the registration fee to?", 
-      a: "Detailed payment information is available on the Information page." 
+      a: "Please pay the amount to one of the coordinators (Krishna Kishore). The payment details are available in the Information page. You can pay once the final cost is confirmed by the organizers." 
     },
     { 
       q: "Is accommodation provided?", 
-      a: "Yes, the venue has accommodation. The details regarding allocated rooms will be shared in the Information page closer to the registration date." 
+      a: "Yes, the venue has accommodation. For room allocation refer to the Information page." 
     },
     { 
       q: "How do I travel to the location?", 
@@ -33,11 +33,11 @@ export default function FAQ() {
     },
     { 
       q: "What are the events going to be?", 
-      a: "The schedule will generally follow the beloved hostel routine, including Suprabatham, Bhajans, Group songs, Parayanam from a guest speaker, and lovely discussions, along with some exciting outdoor events." 
+      a: "The schedule will generally follow our beloved hostel routine, including Suprabatham, Bhajans, Group songs, Parayanam from a guest speaker, and lovely discussions, along with some exciting outdoor events." 
     },    { 
       q: "Who is the guest speaker?", 
-      a: <span>The guest speaker is <strong>Smt. Geetha Mohan Ram</strong>. You can read more about her <a href="http://saibaba.ws/experiences1/the_wonderful_mother_that_i_have.htm" target="_blank" rel="noopener noreferrer" className="underline hover:text-pink-600 dark:hover:text-yellow-500">here</a>.</span> 
-    },    { 
+      a: <span>The guest speaker is <strong>Smt. Geetha Mohan Ram garu</strong>. You can read more about her <a href="http://saibaba.ws/experiences1/the_wonderful_mother_that_i_have.htm" target="_blank" rel="noopener noreferrer" className="underline hover:text-pink-600 dark:hover:text-yellow-500">here</a>.</span> 
+    },    {  
       q: "What are the outdoor events going to be?", 
       a: "While we are currently finalizing the specifics, the outdoor activities will include hiking across the scenic landscapes of Switzerland." 
     },
@@ -71,7 +71,7 @@ export default function FAQ() {
       </div>
       <div className='pb-24 px-4 lg:px-8'>
         <div className="max-w-xl mx-auto text-center bg-light-surface/50 dark:bg-white/10 text-gray-900 dark:text-white p-8 rounded-xl backdrop-blur-sm transition-colors duration-300">
-          <h2 className="text-2xl font-habibi mb-6">Contact Information</h2>
+          <h2 className="text-2xl font-playfair mb-6">Contact Information</h2>
           <p className="mb-2">For any inquiries, please contact:</p>
           <p className="text-xl font-bold mb-1">Kishore Ravuri</p>
           <p className="mb-1"><a href="mailto:kishoreravuri@gmail.com" className="underline hover:text-pink-600 dark:hover:text-gray-300">kishoreravuri@gmail.com</a></p>

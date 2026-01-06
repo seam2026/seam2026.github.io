@@ -25,7 +25,7 @@ export default function Information({ announcements }) {
           {announcements.map((announcement, index) => (
             <div key={index} className="border border-gray-200 dark:border-white/30 rounded-lg overflow-hidden bg-light-surface/80 dark:bg-dark-450 shadow-sm dark:shadow-none transition-colors duration-300">
               <button
-                className="w-full px-6 py-4 text-left font-habibi text-xl flex justify-between items-center hover:bg-gray-100 dark:hover:bg-white/5 transition cursor-pointer"
+                className="w-full px-6 py-4 text-left font-playfair text-xl flex justify-between items-center hover:bg-gray-100 dark:hover:bg-white/5 transition cursor-pointer"
                 onClick={() => toggleAccordion(index)}
               >
                 <span>{announcement.title}</span>
@@ -89,10 +89,10 @@ export async function getStaticProps() {
 
       const desiredOrder = [
         "Registration Fees and Payment Details",
-        "Accommodation Information",
         "Travel and Transportation Details",
-        "Event Guidelines and Packing List",
-        "Activities and events Overview"
+        "Packing List",
+        "Rooms Allocation",
+        "Activities Overview"
       ];
 
       announcements.sort((a, b) => {

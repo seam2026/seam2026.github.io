@@ -47,15 +47,15 @@ export default function Home() {
           
           {/* <div className="flex flex-col w-full text-deep-pink dark:text-white text-center h-auto px-8 z-10 justify-center flex-grow transition-colors duration-300"> */}
           <div className="flex flex-col w-full text-gray-900 dark:text-white text-center h-auto px-8 z-10 pt-28 flex-grow transition-colors duration-300">
-            <p className="font-habibi text-xl">Aum Sri Sai Ram</p>
+            <p className="font-playfair text-xl">Aum Sri Sai Ram</p>
             <h4 className="font-playfair font-bold text-3xl mb-2 mt-4">
               SEAM 2026
             </h4>
-            <p className="font-habibi">Sai Students Europe & UK Alumni Meet</p>
-            <p className="font-habibi mt-2">1st - 4th May 2026</p>
+            <p className="font-playfair">Sai Students Europe & UK Alumni Meet</p>
+            <p className="font-playfair mt-2">1st - 4th May 2026</p>
           </div>
 
-          <div className="mx-4 bg-[rgba(255,249,196,0.03)] dark:bg-dark-500/13 p-3 rounded-xl border border-deep-pink/10 dark:border-white/20 text-gray-900 dark:text-white text-center z-10 mb-24 pb-6 backdrop-blur-[2px] transition-all duration-300">
+          <div className="mx-4 bg-[rgba(255,249,196,0.03)] dark:bg-dark-500/13 p-3 rounded-xl border border-deep-pink/10 dark:border-white/20 text-gray-900 dark:text-white text-center z-10 mb-24 pb-6 backdrop-blur-[2px] transition-all duration-300 font-playfair">
               <h3 className="text-xl font-bold mb-2">Event Details</h3>
               <p className="mb-1 text-sm"><strong>Dates:</strong> 1st May to 4th May, 2026</p>
               <p className="mb-1 text-sm"><strong>Location:</strong> <a href="https://maps.app.goo.gl/B39EJi1zC4Un6nKz9" target="_blank" rel="noopener noreferrer" className="underline hover:text-pink-600 dark:hover:text-gray-300">Grischalodge, Parpan, Switzerland</a></p>
@@ -86,13 +86,13 @@ export default function Home() {
             </video>
             {/* <div className="flex flex-col text-deep-pink dark:text-white px-16 justify-center z-10 col-span-2 w-full h-full text-center flex justify-center transition-colors duration-300"> */}
             <div className="flex flex-col text-gray-900 dark:text-white px-16 justify-center z-10 col-span-2 w-full h-full text-center flex justify-center transition-colors duration-300">
-              <p className="font-habibi text-2xl mb-4">Aum Sri Sai Ram</p>
+              <p className="font-playfair text-2xl mb-4">Aum Sri Sai Ram</p>
               <h1 className="font-playfair font-bold text-8xl mb-6 text-shadow-outline dark:text-shadow-none">
                 SEAM 2026
               </h1>
-              <p className="text-xl max-w-3xl mx-auto mb-8">
+              <p className="text-xl max-w-3xl mx-auto mb-8 font-playfair">
                 Welcome to the official website for the Sai Students Europe & UK Alumni Meet 2026. 
-                This event is a special gathering for all Sai Student alumni across Europe 
+                This event is a special gathering for all Sai Student alumni across Europe & UK
                 to come together to reconnect and rejoice the spirit of unity and devotion.
               </p>
             </div>
@@ -114,7 +114,7 @@ export default function Home() {
         )}
 
         <section id='event-details' className='hidden lg:block'>
-          <div className="z-10 bg-light-surface/80 dark:bg-gray-800/30 p-6 max-w-2xl mx-auto border border-deep-pink/20 dark:border-white/20 text-deep-pink dark:text-white text-center shadow-xl backdrop-blur-sm rounded-xl transition-all duration-300">
+          <div className="z-10 bg-light-surface/80 dark:bg-gray-800/30 p-6 max-w-2xl mx-auto border border-deep-pink/20 dark:border-white/20 text-deep-pink dark:text-white text-center shadow-xl backdrop-blur-sm rounded-xl transition-all duration-300 font-playfair">
               <h3 className="text-2xl font-bold mb-4">Event Details</h3>
               <p className="mb-2"><strong>Dates:</strong> 1st May to 4th May, 2026</p>
               <p className="mb-2"><strong>Location:</strong> <a href="https://maps.app.goo.gl/B39EJi1zC4Un6nKz9" target="_blank" rel="noopener noreferrer" className="underline hover:text-pink-600 dark:hover:text-gray-300">Grischalodge, Parpan, Switzerland</a></p>

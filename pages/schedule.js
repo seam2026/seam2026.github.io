@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import Head from 'next/head';
 import { useRouter } from 'next/router';
 import Layout from '@/components/Layout/Layout';
-import CalenderIcon from '../public/assets/icons/calender.svg';
+import CalenderIcon from '../public/assets/icons/calendar.svg';
 import FoodIcon from '../public/assets/icons/food.svg';
 
 export default function Schedule() {
@@ -126,7 +126,7 @@ export default function Schedule() {
           {activeTab === 'events' ? (
             schedule.map((day, idx) => (
               <div key={idx} className="bg-light-surface/80 dark:bg-dark-450 p-6 rounded-xl border border-gray-200 dark:border-white/20 shadow-lg transition-colors duration-300">
-                <h2 className="text-xl font-habibi text-blue-600 dark:text-blue-accent mb-4 border-b border-gray-200 dark:border-gray-600 pb-2">{day.day}</h2>
+                <h2 className="text-xl font-playfair text-blue-600 dark:text-blue-accent mb-4 border-b border-gray-200 dark:border-gray-600 pb-2">{day.day}</h2>
                 <ul className="space-y-3">
                   {day.events.map((event, eIdx) => (
                     <li key={eIdx} className="flex">

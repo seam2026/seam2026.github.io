@@ -7,7 +7,6 @@ Grischalodge, Parpan, Switzerland
 **Getting There:**
 
 *   **Nearest Airport:** Zurich Airport (approx. 2 hours by public transport)
-*   **Nearest Train Station:** Zurich Hauptbahnhof (approx. 1 hour 40 mins by car)
 *   **Public Transport:**
     *   **Zurich to Chur:** It takes approximately **1.5 hours** by train.
     *   **Chur to Parpan:** From Chur, it takes about **25 minutes** by bus to reach Parpan.
