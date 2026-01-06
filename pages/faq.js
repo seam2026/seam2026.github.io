@@ -36,7 +36,7 @@ export default function FAQ() {
       a: "The schedule will generally follow the beloved hostel routine, including Suprabatham, Bhajans, Group songs, Parayanam from a guest speaker, and lovely discussions, along with some exciting outdoor events." 
     },    { 
       q: "Who is the guest speaker?", 
-      a: <span>The guest speaker is <strong>Geetha Mohan Ram</strong>. You can read more about her <a href="http://saibaba.ws/experiences1/the_wonderful_mother_that_i_have.htm" target="_blank" rel="noopener noreferrer" className="underline hover:text-pink-600 dark:hover:text-yellow-500">here</a>.</span> 
+      a: <span>The guest speaker is <strong>Smt. Geetha Mohan Ram</strong>. You can read more about her <a href="http://saibaba.ws/experiences1/the_wonderful_mother_that_i_have.htm" target="_blank" rel="noopener noreferrer" className="underline hover:text-pink-600 dark:hover:text-yellow-500">here</a>.</span> 
     },    { 
       q: "What are the outdoor events going to be?", 
       a: "While we are currently finalizing the specifics, the outdoor activities will include hiking across the scenic landscapes of Switzerland." 
