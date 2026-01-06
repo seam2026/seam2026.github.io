@@ -1,5 +1,3 @@
-### Travel and Transportation Details
-
 **Event Location:**
 Grischalodge, Parpan, Switzerland
 **Address:** Hauptstrasse 22, 7076 Parpan, Switzerland
