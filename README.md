@@ -1,6 +1,6 @@
 # SEAM 2026 Website
 
-This is the official website for the **Sai Europe Alumni Meet 2026 (SEAM 2026)**.
+This is the official website for the **Sai Students Europe & UK Alumni Meet 2026 (SEAM 2026)**.
 
 ## About this Project
 

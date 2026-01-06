@@ -9,7 +9,7 @@ function MyApp({ Component, pageProps }) {
         <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
         {/* Theme color meta tag can be dynamic if needed, but setting a neutral one or handling via JS is fine */}
         <meta name="theme-color" content="#0f172a" /> 
-        <meta name="description" content="Sai Europe Alumni Meet 2026" />
+        <meta name="description" content="Sai Students Europe & UK Alumni Meet 2026" />
         <link rel="manifest" href="/manifest.json" />
         <link rel="apple-touch-icon" href="/assets/icons/final_logo_3.svg" />
         <link rel="icon" href="/assets/icons/final_logo_3.svg" type="image/svg+xml" />

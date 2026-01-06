@@ -27,7 +27,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>SEAM 2026 - Sai Europe Alumni Meet</title>
+        <title>SEAM 2026 - Sai Students Europe & UK Alumni Meet</title>
       </Head>
       <Layout>
         {/* Mobile Video Background Section */}
@@ -51,7 +51,7 @@ export default function Home() {
             <h4 className="font-playfair font-bold text-3xl mb-2 mt-4">
               SEAM 2026
             </h4>
-            <p className="font-habibi">Sai Europe Alumni Meet</p>
+            <p className="font-habibi">Sai Students Europe & UK Alumni Meet</p>
             <p className="font-habibi mt-2">1st - 4th May 2026</p>
           </div>
 
@@ -91,7 +91,7 @@ export default function Home() {
                 SEAM 2026
               </h1>
               <p className="text-xl max-w-3xl mx-auto mb-8">
-                Welcome to the official website for the Sai Europe Alumni Meet 2026. 
+                Welcome to the official website for the Sai Students Europe & UK Alumni Meet 2026. 
                 This event is a special gathering for all Sai Student alumni across Europe 
                 to come together to reconnect and rejoice the spirit of unity and devotion.
               </p>

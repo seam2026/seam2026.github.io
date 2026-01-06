@@ -5,7 +5,7 @@ export default function FAQ() {
   const faqs = [
     { 
       q: "What is this event about?", 
-      a: "This event is a special gathering for all Sai Student alumni across Europe and their families. It is an opportunity to come together, relive the cherished memories of our student days, and replicate the hostel schedule we all enjoyed, helping us reconnect with that spirit of unity and get closer to Swami." 
+      a: "This event is a special gathering for all Sai Student alumni across Europe & UK and their families. It is an opportunity to come together, relive the cherished memories of our student days, and replicate the hostel schedule we all enjoyed, helping us reconnect with that spirit of unity and get closer to Swami." 
     },
     { 
       q: "Who can attend SEAM 2026?", 
@@ -58,7 +58,7 @@ export default function FAQ() {
         </h1>
         
         <div className="max-w-xl mx-auto mb-16">
-          <h2 className="text-2xl font-habibi mb-6 text-center">Common Questions</h2>
+         {/* <h2 className="text-2xl font-habibi mb-6 text-center">Common Questions</h2> */}
           <div className="space-y-6">
             {faqs.map((item, idx) => (
               <div key={idx} className="bg-light-surface/80 dark:bg-dark-450 p-6 rounded-lg shadow-sm dark:shadow-none transition-colors duration-300">
