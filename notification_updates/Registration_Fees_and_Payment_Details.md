@@ -16,4 +16,4 @@ IBAN: BE93 9673 0807 2467
 Bank Name and Address: Wise Rue du Trone 100, 3rd Floor, 1050 Brussels, Belgium
 
 **Payment Deadline:**
-Please complete your payment by **March xx, 2026** to confirm your registration.
+Please complete your payment by **March, 2026** to confirm your registration.

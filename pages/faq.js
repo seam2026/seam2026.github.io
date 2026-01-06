@@ -21,7 +21,7 @@ export default function FAQ() {
     },
     { 
       q: "Whom do I pay the registration fee to?", 
-      a: "Please pay the amount to one of the coordinators (Krishna Kishore). The payment details are available in the Information page. You can pay once the final cost is confirmed by the organizers." 
+      a: "Please pay the amount to Krishna Kishore. The payment details are available in the Information page. You can pay once the final cost is confirmed by the organizers." 
     },
     { 
       q: "Is accommodation provided?", 
