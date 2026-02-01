@@ -63,32 +63,36 @@ export default function Schedule() {
 
   const menu = [
     {
-      day: "Day 1 (1st May 2026)",
+      day: "Fri (1st May)",
       items: [
-        { time: "12:00 PM - Lunch", description: "Paneer Butter Masala, Dal Tadka, Jeera Rice, Naan, Gulab Jamun" },
-        { time: "7:00 PM - Dinner", description: "Vegetable Biryani, Raita, Mixed Veg Curry, Chapati, Kheer" }
+        { time: "Dinner", description: "Roti, Sabji, Fried Rice, Raita, Sweet, Yogurt, Night and Milk" }
       ]
     },
     {
-      day: "Day 2 (2nd May 2026)",
+      day: "Sat (2nd May)",
       items: [
-        { time: "8:00 AM - Breakfast", description: "Idli, Sambar, Coconut Chutney, Upma, Filter Coffee" },
-        { time: "1:00 PM - Lunch", description: "Rajma Masala, Steamed Rice, Aloo Gobi, Salad, Papad" },
-        { time: "7:00 PM - Dinner", description: "Malai Kofta, Roti, Pulao, Moong Dal Halwa" }
+        { time: "Breakfast", description: "Idly, Vada, Chutney, Gotsu/Sambar, Gun Powder, Tomato Pacchadi" },
+        { time: "Morning Break", description: "Biscuits, Tea, Coffee, Chocomilk" },
+        { time: "Lunch", description: "Tomato Pappu (Andhra Style), Curry/Fry, Rasam, Groundnut Chutney, Gongura, Pickle, Yogurt, Payasam" },
+        { time: "Afternoon Snack", description: "Cake, Tea, Coffee, Chocomilk" },
+        { time: "Dinner", description: "Roti, Gravy Curry, Dal, Rice, Pasta Gratin, Yogurt, Night Milk" }
       ]
     },
     {
-      day: "Day 3 (3rd May 2026)",
+      day: "Sun (3rd May)",
       items: [
-        { time: "8:00 AM - Breakfast", description: "Poha, Jalebi, Masala Chai, Fresh Fruits" },
-        { time: "1:00 PM - Lunch", description: "Chole Bhature, Pickles, Lassi, Green Salad" },
-        { time: "7:00 PM - Dinner", description: "Palak Paneer, Missi Roti, Veg Pulao, Rasgulla" }
+        { time: "Breakfast", description: "Upma, Chutney, Tea, Coffee, Chocomilk" },
+        { time: "Morning Break", description: "Biscuits, Tea, Coffee, Chocomilk" },
+        { time: "Lunch", description: "Sambar, Cauliflower/Potato Fry, Spinach Dal, Lemon Rice, Salad, Pizza, Rava Kesari (Sweet)" },
+        { time: "Afternoon Snack", description: "Bhajji, Cake, Tea, Coffee, Chocomilk" },
+        { time: "Dinner", description: "Poori, Chole, Pulav, Raita, Salad, Fruit Salad & Ice Cream" }
       ]
     },
     {
-      day: "Day 4 (4th May 2026)",
+      day: "Mon (4th May)",
       items: [
-        { time: "8:00 AM - Breakfast", description: "Aloo Paratha, Curd, Pickle, Chai" }
+        { time: "Breakfast", description: "Rava Idly, Veg Saagu, Tea, Coffee, Chocomilk" },
+        { time: "Lunch", description: "Packed Lunch, Tomato Pacchadi" }
       ]
     }
   ];
@@ -138,13 +142,9 @@ export default function Schedule() {
               </div>
             ))
           ) : (
-            // Menu is currently disabled.
-            // To enable it, uncomment the code below and remove the 'null'
-            null
-            /*
             menu.map((day, idx) => (
               <div key={idx} className="bg-light-surface/80 dark:bg-dark-450 p-6 rounded-xl border border-gray-200 dark:border-white/20 shadow-lg transition-colors duration-300">
-                <h2 className="text-xl font-habibi text-yellow-600 dark:text-yellow-accent mb-4 border-b border-gray-200 dark:border-gray-600 pb-2">{day.day}</h2>
+                <h2 className="text-xl font-playfair text-yellow-600 dark:text-yellow-accent mb-4 border-b border-gray-200 dark:border-gray-600 pb-2">{day.day}</h2>
                 <ul className="space-y-4">
                   {day.items.map((item, iIdx) => (
                     <li key={iIdx} className="flex flex-col">
@@ -155,7 +155,6 @@ export default function Schedule() {
                 </ul>
               </div>
             ))
-            */
           )}
         </div>
       </div>

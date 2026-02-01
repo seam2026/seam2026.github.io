@@ -52,6 +52,7 @@ export default function Home() {
               SEAM 2026
             </h4>
             <p className="font-playfair">Sai Students Europe & UK Alumni Meet</p>
+            <p className="font-playfair text-lg italic mt-1">Living His Message</p>
             <p className="font-playfair mt-2">1st - 4th May 2026</p>
           </div>
 
@@ -87,9 +88,10 @@ export default function Home() {
             {/* <div className="flex flex-col text-deep-pink dark:text-white px-16 justify-center z-10 col-span-2 w-full h-full text-center flex justify-center transition-colors duration-300"> */}
             <div className="flex flex-col text-gray-900 dark:text-white px-16 justify-center z-10 col-span-2 w-full h-full text-center flex justify-center transition-colors duration-300">
               <p className="font-playfair text-2xl mb-4">Aum Sri Sai Ram</p>
-              <h1 className="font-playfair font-bold text-8xl mb-6 text-shadow-outline dark:text-shadow-none">
+              <h1 className="font-playfair font-bold text-8xl mb-4 text-shadow-outline dark:text-shadow-none">
                 SEAM 2026
               </h1>
+              <p className="font-playfair text-3xl italic mb-6">Living His Message</p>
               <p className="text-xl max-w-3xl mx-auto mb-8 font-playfair">
                 Welcome to the official website for the Sai Students Europe & UK Alumni Meet 2026. 
                 This event is a special gathering for all Sai Student alumni across Europe & UK
