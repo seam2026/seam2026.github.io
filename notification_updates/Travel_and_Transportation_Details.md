@@ -19,3 +19,8 @@ For those preferring to drive, car rentals are available at Zurich Airport. You 
 
 **Parking:**
 Parking is available on site for those driving to the venue.
+
+**Travel Plan Confirmation (required):**
+All participants must confirm if they are joining and submit their travel plan details by **23rd March 2026** to confirm their place.
+Please submit the form here:
+[https://www.jotform.com/form/260684370433053](https://www.jotform.com/form/260684370433053)

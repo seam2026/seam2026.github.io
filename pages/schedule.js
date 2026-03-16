@@ -65,34 +65,34 @@ export default function Schedule() {
     {
       day: "Fri (1st May)",
       items: [
-        { time: "Dinner", description: "Roti, Sabji, Fried Rice, Raita, Sweet, Yogurt, Night and Milk" }
+        { time: "Dinner", description: "Vegetable Pulao, Paneer Butter Masala, Dal Tadka, Cucumber Tomato Raita, Salad & Pickle; Sweet: Fruit Custard" }
       ]
     },
     {
       day: "Sat (2nd May)",
       items: [
-        { time: "Breakfast", description: "Idly, Vada, Chutney, Gotsu/Sambar, Gun Powder, Tomato Pacchadi" },
-        { time: "Morning Break", description: "Biscuits, Tea, Coffee, Chocomilk" },
-        { time: "Lunch", description: "Tomato Pappu (Andhra Style), Curry/Fry, Rasam, Groundnut Chutney, Gongura, Pickle, Yogurt, Payasam" },
-        { time: "Afternoon Snack", description: "Cake, Tea, Coffee, Chocomilk" },
-        { time: "Dinner", description: "Roti, Gravy Curry, Dal, Rice, Pasta Gratin, Yogurt, Night Milk" }
+        { time: "Breakfast", description: "Vegetable Upma, Peanut Chutney, Gun Powder Podi, Ghee, Diced Watermelon; To be bought: Cereal, White Bread, Sliced Cheese, Jam, Butter, Nutella, Milk, Juice" },
+        { time: "Morning Break", description: "Biscuits; beverages: Chocomilk, Tea, Coffee" },
+        { time: "Lunch", description: "Tomato Pappu, Bangaladumpa Vepudu, Rasam, Lemon Rice, Plain Rice, Salad; Sweet: Semiya Payasam; Sides: Appadam/Vadiyalu, Pickle (Avakaya)" },
+        { time: "Zveri", description: "Mini Samosas with Chocomilk, Tea, Coffee; To be bought: Yogurt, Cake/Mini Sweets" },
+        { time: "Dinner", description: "Roti, Palak Paneer, Dal Makhani, Jeera Pulao, Pasta Gratin; Sweet: Mango Rasmalai; Sides: Mint Chutney" }
       ]
     },
     {
       day: "Sun (3rd May)",
       items: [
-        { time: "Breakfast", description: "Upma, Chutney, Tea, Coffee, Chocomilk" },
-        { time: "Morning Break", description: "Biscuits, Tea, Coffee, Chocomilk" },
-        { time: "Lunch", description: "Sambar, Cauliflower/Potato Fry, Spinach Dal, Lemon Rice, Salad, Pizza, Rava Kesari (Sweet)" },
-        { time: "Afternoon Snack", description: "Bhajji, Cake, Tea, Coffee, Chocomilk" },
-        { time: "Dinner", description: "Poori, Chole, Pulav, Raita, Salad, Fruit Salad & Ice Cream" }
+        { time: "Breakfast", description: "Green Peas and Sweetcorn Poha, Uthappam (buy batter), Chutney; beverages: Chocomilk, Tea, Coffee; To be bought: Cereal, White Bread, Cheese, Jam, Butter, Nutella, Milk, Juice" },
+        { time: "Znuni", description: "Diced Papaya/Grapes/Berries; beverages: Chocomilk, Tea, Coffee" },
+        { time: "Lunch", description: "Soya Masala, Babycorn/Vegetable Jhalfraize, Jeera Pulao, Salad, Naan, Pizza; Sweet: Fruit Salad Ice Cream; Sides: Papad" },
+        { time: "Zveri", description: "Vegetable Spring Rolls with Chocomilk, Tea, Coffee; To be bought: Yogurt, Cake/Mini Sweets, Ice Cream" },
+        { time: "Dinner", description: "Chapathi, Chole, Vegetable Pulao, Raita, Salad; Sweet: Gulab Jamun; Sides: Sweet Chilli Soya Sauce" }
       ]
     },
     {
       day: "Mon (4th May)",
       items: [
-        { time: "Breakfast", description: "Rava Idly, Veg Saagu, Tea, Coffee, Chocomilk" },
-        { time: "Lunch", description: "Packed Lunch, Tomato Pacchadi" }
+        { time: "Breakfast", description: "Ghee Pongal with beverages: Chocomilk, Tea, Coffee; sides: Tomato Pacchadi, Mixed Cut Fresh Fruits; To be bought: Cereal, White Bread, Cheese, Jam, Butter, Nutella, Milk, Juice" },
+        { time: "Lunch", description: "Packed Lunch" }
       ]
     }
   ];
