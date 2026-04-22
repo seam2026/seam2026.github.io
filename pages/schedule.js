@@ -110,6 +110,23 @@ export default function Schedule() {
     }
   ];
 
+  const eventCardThemes = [
+    {
+      card: "bg-gradient-to-br from-blue-50 via-light-surface to-pink-50 dark:from-dark-450 dark:via-dark-450 dark:to-dark-500 border-blue-200/70 dark:border-blue-300/30",
+      heading: "text-blue-700 dark:text-blue-accent"
+    },
+    {
+      card: "bg-gradient-to-br from-yellow-50 via-light-surface to-rose-50 dark:from-dark-450 dark:via-dark-450 dark:to-dark-500 border-yellow-300/70 dark:border-yellow-300/30",
+      heading: "text-rose-700 dark:text-yellow-accent"
+    }
+  ];
+
+  const eventTimeStyles = [
+    "bg-blue-100 text-blue-800 dark:bg-blue-900/40 dark:text-blue-200",
+    "bg-yellow-100 text-yellow-800 dark:bg-yellow-900/40 dark:text-yellow-200",
+    "bg-pink-100 text-pink-800 dark:bg-pink-900/40 dark:text-pink-200"
+  ];
+
   return (
     <Layout>
       <Head>
@@ -141,19 +158,23 @@ export default function Schedule() {
             <p className="text-sm italic text-gray-600 dark:text-gray-400">This is tentative and the final details will be confirmed closer to the event date</p>
           </div>
           {activeTab === 'events' ? (
-            schedule.map((day, idx) => (
-              <div key={idx} className="bg-light-surface/80 dark:bg-dark-450 p-6 rounded-xl border border-gray-200 dark:border-white/20 shadow-lg transition-colors duration-300">
-                <h2 className="text-xl font-playfair text-blue-600 dark:text-blue-accent mb-4 border-b border-gray-200 dark:border-gray-600 pb-2">{day.day}</h2>
+            schedule.map((day, idx) => {
+              const theme = eventCardThemes[idx % eventCardThemes.length];
+              return (
+              <div key={idx} className={`p-6 rounded-xl border shadow-lg transition-colors duration-300 ${theme.card}`}>
+                <h2 className={`text-xl font-playfair mb-4 border-b border-gray-200 dark:border-gray-600 pb-2 ${theme.heading}`}>{day.day}</h2>
                 <ul className="space-y-3">
                   {day.events.map((event, eIdx) => (
-                    <li key={eIdx} className="flex">
-                      <span className="font-bold w-24 text-sm text-gray-600 dark:text-gray-300 flex-shrink-0">{event.time}</span>
-                      <span className="text-sm">{event.activity}</span>
+                    <li key={eIdx} className="flex gap-3 items-start rounded-lg bg-white/70 dark:bg-white/5 p-3 border border-gray-100 dark:border-white/10">
+                      <span className={`font-semibold text-xs sm:text-sm px-3 py-1 rounded-full flex-shrink-0 whitespace-nowrap ${eventTimeStyles[eIdx % eventTimeStyles.length]}`}>
+                        {event.time}
+                      </span>
+                      <span className="text-sm text-gray-800 dark:text-gray-100 leading-relaxed">{event.activity}</span>
                     </li>
                   ))}
                 </ul>
               </div>
-            ))
+            )})
           ) : (
             menu.map((day, idx) => (
               <div key={idx} className="bg-light-surface/80 dark:bg-dark-450 p-6 rounded-xl border border-gray-200 dark:border-white/20 shadow-lg transition-colors duration-300">

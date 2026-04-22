@@ -4,6 +4,7 @@ import Layout from '@/components/Layout/Layout';
 import fs from 'fs';
 import path from 'path';
 import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 import remarkBreaks from 'remark-breaks';
 
 export default function Information({ announcements }) {
@@ -36,7 +37,7 @@ export default function Information({ announcements }) {
                 <div className="px-6 py-6 bg-light-surface dark:bg-dark-500 border-t border-gray-200 dark:border-white/10 transition-colors duration-300">
                   <div className="prose dark:prose-invert max-w-none font-sans">
                     <ReactMarkdown 
-                      remarkPlugins={[remarkBreaks]}
+                      remarkPlugins={[remarkGfm, remarkBreaks]}
                       components={{
                         a: ({node, ...props}) => (
                           <a 
@@ -45,6 +46,20 @@ export default function Information({ announcements }) {
                             rel="noopener noreferrer" 
                             {...props} 
                           />
+                        ),
+                        table: ({node, ...props}) => (
+                          <div className="my-4 overflow-x-auto rounded-lg border border-gray-200 dark:border-white/20">
+                            <table className="w-full min-w-[640px] border-collapse text-sm" {...props} />
+                          </div>
+                        ),
+                        thead: ({node, ...props}) => (
+                          <thead className="bg-gray-100 dark:bg-dark-400" {...props} />
+                        ),
+                        th: ({node, ...props}) => (
+                          <th className="border border-gray-200 dark:border-white/20 px-3 py-2 text-left font-semibold whitespace-nowrap" {...props} />
+                        ),
+                        td: ({node, ...props}) => (
+                          <td className="border border-gray-200 dark:border-white/20 px-3 py-2 align-top" {...props} />
                         )
                       }}
                     >
