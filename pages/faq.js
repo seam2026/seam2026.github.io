@@ -49,7 +49,7 @@ export default function FAQ() {
     },
     {
       q: "Is there a dress preference for sessions?",
-      a: "Yes. White dress is preferred for gents for major bhajan hall gatherings. For ladies, traditional wear is preferred. If not possible, please wear something close and decent."
+      a: "Yes. White dress is preferred for gents for major bhajan hall gatherings. For ladies, traditional wear is preferred. If not possible, please wear something close to these and decent."
     },
     {
       q: "What is the daily program like?",
