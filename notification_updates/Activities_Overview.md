@@ -5,7 +5,7 @@
 ## Event Details
 * **Venue:** Grischalodge, Hauptstrasse 22, 7076 Parpan, Switzerland
 * **Dates:** 1st - 4th May 2026 (4 days)
-* **Accommodation:** Grischalodge (main venue) + Jenatsch Hotel (opposite, across the road)
+* **Accommodation:** Grischalodge (main venue) + Jenatsch Lodge (opposite, across the road)
 * **Living Ideal:** We will try to replicate Swami's hostel routine and encourage social bonding throughout the event.
 
 ## Our Shared Intention
@@ -53,7 +53,9 @@ We would like to create a home where "each lives for the other and all live for 
 **Day 4 (Monday):** Closing ceremony, final bhajans and prayers, felicitations, and departure
 
 ## Special Notes
-* All major group gatherings in the bhajan hall suggest wearing white dress. If you do not have it, wear something close to white and decent.
+* **Dress Code for Bhajan Hall Gatherings:**
+  - **Gentlemen:** White attire (shirt and pants/dhoti)
+  - **Ladies:** Traditional wear (saree, salwar kameez, or similar modest traditional dress). If you do not have these, wear something close to white and decent.
 * Along with the formal sessions, the daily flow is designed in the spirit of Swami's hostel routine to support discipline, devotion, and togetherness.
 * Emphasis on both individual reflection and group harmony
 * Suitable for all ages with dedicated children's activities

@@ -18,9 +18,11 @@ We plan to arrange cars from **Chur** to the event venue to supplement the publi
 For those preferring to drive, car rentals are available at Zurich Airport. You can book through major providers like **Sixt**, **Europcar**, **Hertz**, or **Avis**. Alternatively, you can compare prices and book via platforms like [Rentalcars.com](https://www.rentalcars.com) or [Kayak](https://www.kayak.com/cars). The drive to Parpan takes approximately 1 hour and 40 minutes.
 
 **Parking:**
-Parking is available on site for those driving to the venue.
+Free parking is available at the designated **Spielplatz (sports field)** near the venue. No payment is required.
+* **Parking Details:** Up to 50 cars can be accommodated
+* **Location Map:** [Spielplatz opposite of the accomodation](https://maps.app.goo.gl/drMwZxAoLA1M7x3J9)
 
 **Travel Plan Confirmation (required):**
 All participants must confirm if they are joining and submit their travel plan details by **23rd March 2026** to confirm their place.
 Please submit the form here:
-[https://www.jotform.com/form/260684370433053](https://www.jotform.com/form/260684370433053)
+[Arrival registration form](https://www.jotform.com/form/260684370433053)

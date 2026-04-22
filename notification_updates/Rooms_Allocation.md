@@ -4,10 +4,13 @@
 **Address:** Hauptstrasse 22, 7076 Parpan, Switzerland
 
 ## Important Information
-* **Separate Accommodation:** Jenatsch Hotel (26 guests) - located opposite Grischalodge, just across the road
-* **Bachelors Accommodation:** Bachelors are being sent to the Jenatsch Hotel
+* **Separate Accommodation:** Jenatsch Lodge (26 guests) - located opposite Grischalodge, just across the road
+* **Bachelors Accommodation:** Bachelors are being sent to the Jenatsch Lodge
 * Detailed check-in and settlement procedures will be communicated closer to the event
 * All rooms come with access to the main gathering spaces and dining facilities
+* **Bedding & Amenities Provided:** Blankets, pillows, and bedding are provided. Towels are NOT provided - you must bring your own.
+* **Room Cleaning:** No room cleaning service will be provided during the event. Please keep your room tidy.
+* **Luggage Checkout (Monday 4th May):** Please remove your luggage and clear your room by breakfast time (8:00 AM) if possible to facilitate cleanup.
 
 ## Ground Floor (G) - Superior Rooms
 
@@ -75,9 +78,9 @@
 | Hostel 5 | Pallet double 160×200, DU/WC/TV | 2 | Anvil Kabadi, Megha Anvil (32) |
 | Hostel 6 | Pallet double 160×200, DU/WC/TV | 2 | Bharadwaj Mummaneni, Sai Prerna Kolisetty (30) |
 
-## Jenatsch Hotel (Separate Accommodation - Opposite Grischalodge)
+## Jenatsch Lodge (Separate Accommodation - Opposite Grischalodge)
 
-Bachelors are being sent to this hotel.
+Backelors are being sent to this lodge.
 
 **26 Participants** staying at this hotel (just across the road from main venue)
 
@@ -89,5 +92,5 @@ Sai Siddharth Kolluru, Saibrata Punyasloka, Naidu Kamisetti, Sai Kirti Krishnan 
 ## Summary Statistics
 * **Total Participants:** ~120 (approx)
 * **Grischalodge:** ~95 participants (Superior rooms, standard rooms, hostel)
-* **Jenatsch Hotel:** 26 participants (separate hotel, easily accessible across the road)
+* **Jenatsch Lodge:** 26 participants (separate lodge, easily accessible across the road)
 * **Total Rooms:** 26 at Grischalodge + Jenatsch hotel facility
