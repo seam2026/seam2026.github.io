@@ -45,11 +45,11 @@ export default function FAQ() {
     },
     {
       q: "What should I pack?",
-      a: "Bring warm layers for subzero to about 13-14C weather, rain/snow protection, comfortable outdoor shoes, and your own towels (towels are not provided)."
+      a: "Bring warm layers for subzero to about 13-14C weather, rain/snow protection, comfortable outdoor shoes, and your own towels (towels are not provided). More packing details are provided in the Information page."
     },
     {
       q: "Is there a dress preference for sessions?",
-      a: "Yes. White dress is preferred for major bhajan hall gatherings. If not possible, please wear something close to white and decent."
+      a: "Yes. White dress is preferred for gents for major bhajan hall gatherings. For ladies, traditional wear is preferred. If not possible, please wear something close and decent."
     },
     {
       q: "What is the daily program like?",
