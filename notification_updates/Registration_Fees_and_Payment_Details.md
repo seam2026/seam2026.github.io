@@ -10,8 +10,8 @@ The registration fee includes accommodation and food:
 * Children aged 5 and under: **Free**
 
 **Important Confirmation (required for all participants):**
-Please confirm whether you are joining SEAM 2026 and also confirm your travel plans by **23rd March 2026** using this form:
-[https://www.jotform.com/form/260684370433053](https://www.jotform.com/form/260684370433053)
+Please confirm whether you are joining SEAM 2026 and also confirm your travel plans by **23rd April 2026** using this form:
+[Arrival Registration Form](https://www.jotform.com/form/260684370433053)
 
 **Payment Methods:**
 Choose the payment section below based on where you are paying from.
