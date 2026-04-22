@@ -156,9 +156,6 @@ export default function Schedule() {
         </div>
         
         <div className="max-w-4xl mx-auto grid gap-8 md:grid-cols-2">
-          <div className="md:col-span-2 text-center mb-4">
-            <p className="text-sm italic text-gray-600 dark:text-gray-400">This is tentative and the final details will be confirmed closer to the event date</p>
-          </div>
           {activeTab === 'events' ? (
             schedule.map((day, idx) => {
               const theme = eventCardThemes[idx % eventCardThemes.length];
