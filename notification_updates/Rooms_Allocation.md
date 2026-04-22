@@ -33,7 +33,7 @@
 | 104 | 2-bed Bergblick | 2 | Vidya Kalpathy, Raghav Sai (7) |
 | 105 | 3-bed family Bergblick | 3 | Vishnu Krishnamachari (50), Ramya (47), Sahana (12) |
 | 106 | Simple double, DU/WC outside | 2 | Anil Hariharakrishnan, Sai Shruti (10) |
-| 107 | 4-bed North (1D + 2S) | 4 | Available |
+| 107 | 4-bed North (1D + 2S) | 4 | Aishwarya (38), Rakshith Prasad (38), Veda (8), Saaisha (4) |
 
 ## Second Floor (2) - Family & Standard Rooms
 
@@ -71,7 +71,7 @@
 
 | Room | Type | Capacity | Occupants |
 |------|------|----------|----------|
-| Hostel 1 | 4-bunk dorm, DU/WC/TV | 4 | Aishwarya (38), Rakshith Prasad (38), Veda (8), Saaisha (4) |
+| Hostel 1 | 4-bunk dorm, DU/WC/TV | 4 | Available |
 | Hostel 2 | 4-bunk dorm, DU/WC/TV | 4 | Vanitha Naina, Srividya Rajamani, Sharanya Mosalakanti, Venkata Sai Jyoti Jayanti |
 | Hostel 3 | Pallet double 160x200, DU/WC/TV | 2 | Shreyas Muralidhar, Anusha Acharya (35) |
 | Hostel 4 | Pallet double 160x200, DU/WC/TV | 2 | Neeraj Kanal, Ashni Ahuja (34) |
