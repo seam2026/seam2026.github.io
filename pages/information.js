@@ -8,10 +8,23 @@ import remarkGfm from 'remark-gfm';
 import remarkBreaks from 'remark-breaks';
 
 export default function Information({ announcements }) {
-  const [openIndex, setOpenIndex] = useState(null);
+  const [openIndex, setOpenIndex] = useState(0); // Open the first one by default
 
   const toggleAccordion = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
+    const isOpening = openIndex !== index;
+    setOpenIndex(isOpening ? index : null);
+
+    if (isOpening) {
+      // Give the layout a moment to collapse the previous tab and expand the new one
+      setTimeout(() => {
+        const element = document.getElementById(`accordion-${index}`);
+        if (element) {
+          // Calculate the position taking into account a fixed sticky header
+          const y = element.getBoundingClientRect().top + window.scrollY - 100;
+          window.scrollTo({ top: y, behavior: 'smooth' });
+        }
+      }, 150);
+    }
   };
 
   return (
@@ -24,7 +37,7 @@ export default function Information({ announcements }) {
         
         <div className="max-w-3xl mx-auto space-y-4">
           {announcements.map((announcement, index) => (
-            <div key={index} className="border border-gray-200 dark:border-white/30 rounded-lg overflow-hidden bg-light-surface/80 dark:bg-dark-450 shadow-sm dark:shadow-none transition-colors duration-300">
+            <div key={index} id={`accordion-${index}`} className="border border-gray-200 dark:border-white/30 rounded-lg overflow-hidden bg-light-surface/80 dark:bg-dark-450 shadow-sm dark:shadow-none transition-colors duration-300">
               <button
                 className="w-full px-6 py-4 text-left font-playfair text-xl flex justify-between items-center hover:bg-gray-100 dark:hover:bg-white/5 transition cursor-pointer"
                 onClick={() => toggleAccordion(index)}
