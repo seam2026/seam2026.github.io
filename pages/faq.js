@@ -40,6 +40,10 @@ export default function FAQ() {
       a: "Nearest airport: Zurich. Travel route: Zurich to Chur by train (around 1.5 hours), then Chur to Parpan by bus (around 25 minutes). Public transport runs frequently."
     },
     {
+      q: "What time can I arrive and when should I leave?",
+      a: "Please plan to arrive on Friday (1st May) between 2:00 PM and 4:45 PM for settling in. The program closes on Monday (4th May), with room clearance and checkout scheduled between 10:10 AM and 11:00 AM."
+    },
+    {
       q: "What should I pack?",
       a: "Bring warm layers for subzero to about 13-14C weather, rain/snow protection, comfortable outdoor shoes, and your own towels (towels are not provided)."
     },
