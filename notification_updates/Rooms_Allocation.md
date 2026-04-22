@@ -5,6 +5,7 @@
 
 ## Important Information
 * **Separate Accommodation:** Jenatsch Hotel (26 guests) - located opposite Grischalodge, just across the road
+* **Bachelors Accommodation:** Bachelors are being sent to the Jenatsch Hotel
 * Detailed check-in and settlement procedures will be communicated closer to the event
 * All rooms come with access to the main gathering spaces and dining facilities
 
@@ -63,7 +64,7 @@
 | 402 | 3-bed family Bergblick | 3 | Pardha Mantravadi (49), Lalitha Kameswari (47), Savir (11) |
 | 403 | Simple double North | 2 | Guru Swaroop, Saisree Bennabhaktula (32) |
 
-## Hostel Accommodation (Grischalodge)
+## Hostel-like cozy accomodation (Grishalodge)
 
 | Room | Type | Capacity | Occupants |
 |------|------|----------|----------|
@@ -75,6 +76,8 @@
 | Hostel 6 | Pallet double 160×200, DU/WC/TV | 2 | Bharadwaj Mummaneni, Sai Prerna Kolisetty (30) |
 
 ## Jenatsch Hotel (Separate Accommodation - Opposite Grischalodge)
+
+Bachelors are being sent to this hotel.
 
 **26 Participants** staying at this hotel (just across the road from main venue)
 

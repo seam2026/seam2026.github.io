@@ -49,17 +49,17 @@ export default function Information({ announcements }) {
                         ),
                         table: ({node, ...props}) => (
                           <div className="my-4 overflow-x-auto rounded-lg border border-gray-200 dark:border-white/20">
-                            <table className="w-full min-w-[640px] border-collapse text-sm" {...props} />
+                            <table className="w-full min-w-[640px] border-collapse text-sm bg-white dark:bg-dark-500" {...props} />
                           </div>
                         ),
                         thead: ({node, ...props}) => (
-                          <thead className="bg-gray-100 dark:bg-dark-400" {...props} />
+                          <thead className="bg-gray-100 dark:bg-slate-700" {...props} />
                         ),
                         th: ({node, ...props}) => (
-                          <th className="border border-gray-200 dark:border-white/20 px-3 py-2 text-left font-semibold whitespace-nowrap" {...props} />
+                          <th className="border border-gray-200 dark:border-slate-500 px-3 py-2 text-left font-semibold whitespace-nowrap bg-gray-100 dark:bg-slate-700 text-gray-900 dark:text-gray-100" {...props} />
                         ),
                         td: ({node, ...props}) => (
-                          <td className="border border-gray-200 dark:border-white/20 px-3 py-2 align-top" {...props} />
+                          <td className="border border-gray-200 dark:border-slate-600 px-3 py-2 align-top text-gray-800 dark:text-gray-100" {...props} />
                         )
                       }}
                     >
