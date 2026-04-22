@@ -41,7 +41,7 @@ export default function FAQ() {
     },
     {
       q: "What time can I arrive and when should I leave?",
-      a: "Please plan to arrive on Friday (1st May) between 2:00 PM and 4:45 PM for settling in. The program closes on Monday (4th May), with room clearance and checkout scheduled between 10:10 AM and 11:00 AM."
+      a: "Please plan to arrive on Friday (1st May) between 2:00 PM and 4:45 PM for settling in. The program closes on Monday (4th May), with room clearance and checkout scheduled between 10:10 AM and 11:00 AM. If you are arriving earlier or leaving later, please contact any of the organizers."
     },
     {
       q: "What should I pack?",
