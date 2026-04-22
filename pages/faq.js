@@ -3,47 +3,57 @@ import Layout from '@/components/Layout/Layout';
 
 export default function FAQ() {
   const faqs = [
-    { 
-      q: "What is this event about?", 
-      a: "This event is a special gathering for all Sai Student alumni across Europe & UK and their families. It is an opportunity to come together, relive the cherished memories of our student days, and replicate the hostel schedule we all enjoyed, helping us reconnect with that spirit of unity and get closer to Swami." 
+    {
+      q: "What is SEAM 2026 about?",
+      a: "SEAM 2026 is a spiritual and community gathering for Sai alumni and families. The event follows the theme 'Our Life is His Message: Learning from Swami, Living in the Society'."
     },
-    { 
-      q: "Who can register SEAM 2026?", 
-      a: "All alumni of Sri Sathya Sai educational institutions from Europe and UK are welcome to register." 
+    {
+      q: "When and where is the event?",
+      a: "SEAM 2026 will be held from 1st to 4th May 2026 at Grischalodge, Hauptstrasse 22, 7076 Parpan, Switzerland."
     },
-    { 
-      q: "What is the registration fee?", 
-      a: "The registration fee is tentatively 150-170 CHF and final fee will be communicated in due course." 
+    {
+      q: "Who can attend?",
+      a: "Sai alumni from Europe and the UK/Ireland, along with their families, are welcome to participate."
     },
-    { 
-      q: "How do I register?", 
-      a: "Please go to the home page of this website and click on the 'Register Now' button to complete your registration." 
+    {
+      q: "How do I register?",
+      a: <span>Use the registration link on the home page, or complete the arrival confirmation form <a href="https://www.jotform.com/form/260684370433053" target="_blank" rel="noopener noreferrer" className="underline hover:text-pink-600 dark:hover:text-yellow-500">here</a>.</span>
     },
-    { 
-      q: "Whom do I pay the registration fee to?", 
-      a: "Please pay the amount to Krishna Kishore. The payment details are available in the Information page. You can pay once the final cost is confirmed by the organizers." 
+    {
+      q: "What is the registration fee?",
+      a: "Adults: 160 CHF (approximately GBP 153). Children under 12: 155 CHF (approximately GBP 148). Children aged 5 and under: free."
     },
-    { 
-      q: "Is accommodation provided?", 
-      a: "Yes, the venue has accommodation. For room allocation refer to the Information page." 
+    {
+      q: "Whom do I pay the registration fee to?",
+      a: "Please pay the amount to Krishna Kishore. The payent details are available in the Information page."
     },
-    { 
-      q: "How do I travel to the location?", 
-      a: "The nearest major train station is Chur. From there, you can take a bus or one of our arranged cars to the venue. For more detailed travel instructions, please refer to the Information page." 
+    {
+      q: "Is accommodation provided?",
+      a: "Yes. Accommodation is arranged at Grischalodge and also at Jenatsch Hotel (just across the road). Room allocation is available on the Information page."
     },
-    { 
-      q: "What are the events going to be?", 
-      a: "The schedule will generally follow our beloved hostel routine, including Suprabatham, Bhajans, Group songs, Parayanam from a guest speaker, and lovely discussions, along with some exciting outdoor events." 
-    },    { 
-      q: "Who is the guest speaker?", 
-      a: <span>The guest speaker is <strong>Smt. Geetha Mohan Ram garu</strong>. You can read more about her <a href="http://saibaba.ws/experiences1/the_wonderful_mother_that_i_have.htm" target="_blank" rel="noopener noreferrer" className="underline hover:text-pink-600 dark:hover:text-yellow-500">here</a>.</span> 
-    },    {  
-      q: "What are the outdoor events going to be?", 
-      a: "While we are currently finalizing the specifics, the outdoor activities will include hiking across the scenic landscapes of Switzerland." 
+    {
+      q: "Why is my name at Jenatsch Hotel in the Room allocation info?",
+      a: "Some Bachelors are being allocated to Jenatsch Hotel. It is opposite Grischalodge and very easy to access on foot."
     },
-    { 
-      q: "What should I bring to the event?", 
-      a: "Bring your enthusiasm and love for Swami! A detailed list of material suggestions and packing essentials will be provided in the Information page closer to the event." 
+    {
+      q: "How do I travel to the venue?",
+      a: "Nearest airport: Zurich. Travel route: Zurich to Chur by train (around 1.5 hours), then Chur to Parpan by bus (around 25 minutes). Public transport runs frequently."
+    },
+    {
+      q: "What should I pack?",
+      a: "Bring warm layers for subzero to about 13-14C weather, rain/snow protection, comfortable outdoor shoes, and your own towels (towels are not provided)."
+    },
+    {
+      q: "Is there a dress preference for sessions?",
+      a: "Yes. White dress is preferred for major bhajan hall gatherings. If not possible, please wear something close to white and decent."
+    },
+    {
+      q: "What is the daily program like?",
+      a: "The program includes Suprabhatam, Vedam, Bhajans, guest talks, open discussions, children's activities, outdoor sessions, and evening prayers."
+    },
+    {
+      q: "Who is the guest speaker?",
+      a: <span>The guest speaker is <strong>Smt. Geetha Mohan Ram garu</strong>. You can read more about her <a href="http://saibaba.ws/experiences1/the_wonderful_mother_that_i_have.htm" target="_blank" rel="noopener noreferrer" className="underline hover:text-pink-600 dark:hover:text-yellow-500">here</a>.</span>
     },
   ];
 
