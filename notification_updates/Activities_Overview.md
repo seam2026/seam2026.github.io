@@ -55,7 +55,8 @@ We would like to create a home where "each lives for the other and all live for 
 ## Special Notes
 * **Dress Code for Bhajan Hall Gatherings:**
   - **Gentlemen:** White attire (shirt and pants/dhoti)
-  - **Ladies:** Traditional wear (saree, salwar kameez, or similar modest traditional dress). If you do not have these, wear something close to white and decent.
+  - **Ladies:** Traditional wear (saree, salwar kameez, or similar modest traditional dress). 
+  - If you do not have these, wear something close to white and decent.
 * Along with the formal sessions, the daily flow is designed in the spirit of Swami's hostel routine to support discipline, devotion, and togetherness.
 * Emphasis on both individual reflection and group harmony
 * Suitable for all ages with dedicated children's activities
