@@ -21,9 +21,9 @@ export default function Schedule() {
       theme: "Arrival and Welcome",
       events: [
         { time: "2:00 PM - 4:45 PM", activity: "Arrival and Settling in" },
-        { time: "5:00 PM - 7:00 PM", activity: "Vedam (30m), Lighting the Lamp (5m), Welcome Song (5m), Bhajans (45m), Welcome Talk (20m), Housekeeping & Schedule (15m)" },
+        { time: "5:00 PM - 7:00 PM", activity: "Vedam (30m), Lighting the Lamp (5m), Divine Discourse (5m), Welcome Song (5m), Bhajans (45m), Welcome Talk (20m), Housekeeping & Schedule (15m)" },
         { time: "7:00 PM - 8:30 PM", activity: "Dinner" },
-        { time: "8:30 PM - 10:00 PM", activity: "Free Time / Networking / Practice" },
+        { time: "8:30 PM - 10:00 PM", activity: "Free Time / Networking / Informal Chats / Practice" },
         { time: "10:00 PM - 10:15 PM", activity: "Hanuman Chalisa and Night Prayers" }
       ]
     },
@@ -34,12 +34,14 @@ export default function Schedule() {
         { time: "6:00 AM - 6:15 AM", activity: "Suprabhatam" },
         { time: "6:15 AM - 7:30 AM", activity: "Free Time" },
         { time: "7:30 AM - 8:30 AM", activity: "Breakfast" },
-        { time: "9:00 AM - 12:10 PM", activity: "Vedam & Open Mic (10m), Bhajans (45m), Guest Introduction (5m), Guest Talk by Smt Geetha MohanRam (1h30m), Open Mic Session (30m), Closing Remarks (10m)" },
-        { time: "12:20 PM - 1:55 PM", activity: "Lunch" },
-        { time: "2:00 PM - 4:30 PM", activity: "Group Photo Session (20m), Outdoor Breakout Groups on 'Living Swami's Message' (60m), Children Interaction with Geetha aunty (Simultaneous), Session Recap (30m)" },
-        { time: "4:30 PM - 5:25 PM", activity: "Tea and Free Time" },
-        { time: "5:30 PM - 7:25 PM", activity: "Vedam (10m), Sai Student Talk (20m), Musical Offering (35m), Bhajans and Aarti (45m)" },
-        { time: "7:30 PM - 9:00 PM", activity: "Dinner & Chat with Geetha aunty on Parenting; Q&A" },
+        { time: "9:00 AM - 12:10 PM", activity: "Vedam (25m), Bhajans (35m), Guest Introduction (2m), Guest Talk (90m), Open Mic Session (30m), Closing Remarks (3m)" },
+        { time: "12:30 PM - 2:00 PM", activity: "Lunch" },
+        { time: "2:00 PM - 4:30 PM", activity: "Outdoor Group Photo and Breakout Session: Assemble in hall (10m), Group Photo Session 1 (20m), Group setup (10m), Breakout discussion on 'How are we Living Swami's Message?' (60m), Children's interaction with Aunty (simultaneous, 60m), Recap assembly (10m), Group recap sharing (30m)" },
+        { time: "4:30 PM - 5:30 PM", activity: "Tea and Free Time" },
+        { time: "5:30 PM - 7:30 PM", activity: "Vedam (10m), Sai Student Talk (10m), Musical Offering at the Divine Lotus Feet (45m), Bhajans & Aarti (35m)" },
+        { time: "7:30 PM - 9:00 PM", activity: "Dinner" },
+        { time: "8:30 PM - 9:30 PM", activity: "Optional: Sai Parenting - Informal Q & A with Geetha aunty" },
+        { time: "9:00 PM - 10:00 PM", activity: "Relaxing Time / Networking Time" },
         { time: "10:00 PM - 10:15 PM", activity: "Hanuman Chalisa and Night Prayers" }
       ]
     },
@@ -50,15 +52,15 @@ export default function Schedule() {
         { time: "6:00 AM - 6:15 AM", activity: "Suprabhatam" },
         { time: "6:30 AM - 7:30 AM", activity: "Free Time" },
         { time: "7:30 AM - 8:30 AM", activity: "Breakfast" },
-        { time: "9:00 AM - 12:30 PM", activity: "Vedam (10m), Bhajans (40m), Children's Music Program (40m), Guest Talk (90m), Roundup (10m)" },
-        { time: "12:30 PM - 1:50 PM", activity: "Lunch Break" },
-        { time: "2:00 PM - 4:00 PM", activity: "Afternoon Outdoor Session at Squirrel Park & Lake Heidsee: Transfer to Heidsee (14:05), Group Photo at Alpine Lake (14:10), Walk to Squirrel Park & Back (14:15-15:30), Transfer Back (15:50)" },
-        { time: "4:00 PM - 4:55 PM", activity: "Tea Break" },
-        { time: "5:00 PM - 7:25 PM", activity: "Vedam (10m), Sai Student Talk (20m), Drama (35m), Bhajans and Aarti (45m)" },
+        { time: "9:00 AM - 12:30 PM", activity: "Vedam by Children (20m), Bhajans by Children (30m), Musical Offering by Children (25m), Guest Talk (90m), Closing Remarks (10m)" },
+        { time: "12:30 PM - 1:55 PM", activity: "Lunch Break" },
+        { time: "2:00 PM - 4:00 PM", activity: "Afternoon Session: Transfer to Heidesee, Group Photo Session 2 (Alpine lake background), Walk to The Squirrel Park and back, Transfer back to venue" },
+        { time: "4:00 PM - 4:45 PM", activity: "Tea Break" },
+        { time: "5:30 PM - 7:30 PM", activity: "Vedam (10m), Sai Student Talk (15m), Drama (45m), Bhajans and Aarti (45m), Buffer (5m)" },
         { time: "7:30 PM - 9:00 PM", activity: "Dinner" },
         { time: "9:00 PM - 10:00 PM", activity: "Networking and Informal Chats" },
         { time: "10:00 PM - 10:15 PM", activity: "Hanuman Chalisa and Night Prayers" },
-        { time: "10:15 PM - 10:30 PM", activity: "Brief Checkout Announcements" }
+        { time: "10:15 PM - 10:30 PM", activity: "Checkout Announcements / Instructions" }
       ]
     },
     {
@@ -68,8 +70,8 @@ export default function Schedule() {
         { time: "6:00 AM - 6:15 AM", activity: "Suprabhatam" },
         { time: "6:30 AM - 7:30 AM", activity: "Free Time" },
         { time: "7:00 AM - 8:00 AM", activity: "Breakfast" },
-        { time: "8:20 AM - 10:00 AM", activity: "Vedam (10m), Bhajans (40m), Short Talk by Smt. Geetha Mohanram (30m), Vote of Thanks & Felicitations (20m), Aarati (5m)" },
-        { time: "10:10 AM - 11:00 AM", activity: "Room Clearance and Checkout" }
+        { time: "8:30 AM - 10:30 AM", activity: "Vedam (10m), Bhajans (30m), Sai Students Activities Open Discussion (30m), Vote of Thanks and Felicitations (20m), Aarti (5m)" },
+        { time: "11:00 AM", activity: "Check-out and await SEAM 2027" }
       ]
     }
   ];
