@@ -17,46 +17,59 @@ export default function Schedule() {
 
   const schedule = [
     {
-      day: "Day 1 (1st May 2026)",
+      day: "Day 1 (Friday, 1st May 2026)",
+      theme: "Arrival and Welcome",
       events: [
-        { time: "11:00 AM", activity: "Venue opening for arrival and registration" },
-        { time: "12:00 PM", activity: "Lunch" },
-        { time: "2:00 PM", activity: "Opening Ceremony" },
-        { time: "4:00 PM", activity: "Icebreaker Activities" },
-        { time: "7:00 PM", activity: "Dinner and Cultural Program" }
+        { time: "2:00 PM - 4:45 PM", activity: "Arrival and Settling in" },
+        { time: "5:00 PM - 7:00 PM", activity: "Friday Evening Session: Vedam (30m), Lighting the Lamp (5m), Welcome Song (5m), Bhajans (45m), Welcome Talk (20m), Housekeeping & Schedule (15m)" },
+        { time: "7:00 PM - 8:30 PM", activity: "Dinner" },
+        { time: "8:30 PM - 10:00 PM", activity: "Free Time / Networking / Practice" },
+        { time: "10:00 PM - 10:15 PM", activity: "Hanuman Chalisa and Night Prayers" }
       ]
     },
     {
-      day: "Day 2 (2nd May 2026)",
+      day: "Day 2 (Saturday, 2nd May 2026)",
+      theme: "Learning from Swami",
       events: [
-        { time: "8:00 AM", activity: "Breakfast" },
-        { time: "9:00 AM", activity: "Bhajan Session" },
-        { time: "11:00 AM", activity: "Group Discussions" },
-        { time: "1:00 PM", activity: "Lunch" },
-        { time: "3:00 PM", activity: "Outdoor Activities" },
-        { time: "7:00 PM", activity: "Dinner and Hanuman Chalisa" }
+        { time: "6:00 AM - 6:15 AM", activity: "Suprabhatam" },
+        { time: "6:15 AM - 7:30 AM", activity: "Free Time" },
+        { time: "7:30 AM - 8:30 AM", activity: "Breakfast" },
+        { time: "9:00 AM - 12:10 PM", activity: "Saturday Morning Session: Vedam & Open Mic (10m), Bhajans (45m), Guest Introduction (5m), Guest Talk by Smt Geetha MohanRam (1h30m), Open Mic Session (30m), Closing Remarks (10m)" },
+        { time: "12:20 PM - 1:55 PM", activity: "Lunch" },
+        { time: "2:00 PM - 4:30 PM", activity: "Saturday Noon Session: Group Photo Session (20m), Outdoor Breakout Groups on 'Living Swami's Message' (60m), Children Interaction with Geetha aunty (Simultaneous), Session Recap (30m)" },
+        { time: "4:30 PM - 5:25 PM", activity: "Tea and Free Time" },
+        { time: "5:30 PM - 7:25 PM", activity: "Saturday Evening Session: Vedam (10m), Sai Student Talk (20m), Musical Offering (35m), Bhajans and Aarti (45m)" },
+        { time: "7:30 PM - 9:00 PM", activity: "Dinner & Chat with Geetha aunty on Parenting; Q&A" },
+        { time: "10:00 PM - 10:15 PM", activity: "Hanuman Chalisa and Night Prayers" }
       ]
     },
     {
-      day: "Day 3 (3rd May 2026)",
+      day: "Day 3 (Sunday, 3rd May 2026)",
+      theme: "Living in the Society",
       events: [
-        { time: "8:00 AM", activity: "Breakfast" },
-        { time: "9:00 AM", activity: "Guest Speaker Session" },
-        { time: "11:00 AM", activity: "Bhajan Sessions" },
-        { time: "1:00 PM", activity: "Lunch" },
-        { time: "3:00 PM", activity: "Free Time / Networking" },
-        { time: "7:00 PM", activity: "Bhajan and Bhojan" }
+        { time: "6:00 AM - 6:15 AM", activity: "Suprabhatam" },
+        { time: "6:30 AM - 7:30 AM", activity: "Free Time" },
+        { time: "7:30 AM - 8:30 AM", activity: "Breakfast" },
+        { time: "9:00 AM - 12:30 PM", activity: "Sunday Morning Session: Vedam (10m), Bhajans (40m), Children's Music Program (40m), Guest Talk (90m), Roundup (10m)" },
+        { time: "12:30 PM - 1:50 PM", activity: "Lunch Break" },
+        { time: "2:00 PM - 4:00 PM", activity: "Afternoon Outdoor Session at Squirrel Park & Lake Heidsee: Transfer to Heidsee (14:05), Group Photo at Alpine Lake (14:10), Walk to Squirrel Park & Back (14:15-15:30), Transfer Back (15:50)" },
+        { time: "4:00 PM - 4:55 PM", activity: "Tea Break" },
+        { time: "5:00 PM - 7:25 PM", activity: "Sunday Evening Session: Vedam (10m), Sai Student Talk (20m), Drama (35m), Bhajans and Aarti (45m)" },
+        { time: "7:30 PM - 9:00 PM", activity: "Dinner" },
+        { time: "9:00 PM - 10:00 PM", activity: "Networking and Informal Chats" },
+        { time: "10:00 PM - 10:15 PM", activity: "Hanuman Chalisa and Night Prayers" },
+        { time: "10:15 PM - 10:30 PM", activity: "Brief Checkout Announcements" }
       ]
     },
     {
-      day: "Day 4 (4th May 2026)",
+      day: "Day 4 (Monday, 4th May 2026)",
+      theme: "Closing and Departure",
       events: [
-        { time: "8:00 AM", activity: "Breakfast" },
-        { time: "9:00 AM", activity: "Closing Ceremony" },
-        { time: "11:00 AM", activity: "Departure" },
-        { time: "12:00 PM", activity: "Lunch" },
-        { time: "12:30 PM", activity: "Venue Cleaning and Wrap-up" },
-        { time: "2:00 PM", activity: "Departure" }
+        { time: "6:00 AM - 6:15 AM", activity: "Suprabhatam" },
+        { time: "6:30 AM - 7:30 AM", activity: "Free Time" },
+        { time: "7:00 AM - 8:00 AM", activity: "Breakfast" },
+        { time: "8:20 AM - 10:00 AM", activity: "Closing Session: Vedam (10m), Bhajans (40m), Short Talk by Smt. Geetha Mohanram (30m), Vote of Thanks & Felicitations (20m), Aarati (5m)" },
+        { time: "10:10 AM - 11:00 AM", activity: "Room Clearance and Checkout" }
       ]
     }
   ];
