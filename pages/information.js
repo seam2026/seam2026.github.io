@@ -88,6 +88,22 @@ export default function Information({ announcements }) {
             <p className="text-center text-gray-500 dark:text-gray-400">No announcements at this time.</p>
           )}
         </div>
+
+        <div className="max-w-3xl mx-auto mt-12">
+          <div className="rounded-xl border border-gray-200 dark:border-white/20 bg-light-surface/80 dark:bg-dark-450 px-6 py-5 text-center shadow-sm dark:shadow-none transition-colors duration-300">
+            <p className="text-gray-700 dark:text-gray-200">
+              Download the slide deck of the introduction presentation{' '}
+              <a
+                href="https://github.com/seam2026/seam2026.github.io/blob/main/public/assets/presentations/SEAM2026_info_presentation.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="font-semibold text-blue-600 dark:text-blue-400 hover:text-blue-500 dark:hover:text-blue-300 underline"
+              >
+                here
+              </a>.
+            </p>
+          </div>
+        </div>
       </div>
     </Layout>
   );
