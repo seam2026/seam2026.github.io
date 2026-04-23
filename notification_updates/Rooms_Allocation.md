@@ -82,15 +82,15 @@
 
 | Room | Floor | Type | Occupants |
 |------|-------|------|----------|
-| R10 | J1 | 4-bed, Bad/WC | HKP Gorrepati (~51), Nagasai Sripada (~51), Vijaya Sai Vurukonda (~33), Shashank Suman (~27) |
-| R11 | J1 | 2-bed, Bad/WC | Sathya Sai Ram Vishwanath (~52), Sudhir Shetty (~44) |
-| R12 | J1 | 2-bed | Naidu Kamisetti (47), Satyavrath Bharadwaj (~28) |
+| R10 | J1 | 4-bed, Bad/WC | HKP Gorrepati, Nagasai Sripada, Vijaya Sai Vurukonda, Shashank Suman |
+| R11 | J1 | 2-bed, Bad/WC | Sathya Sai Ram Vishwanath, Sudhir Shetty |
+| R12 | J1 | 2-bed | Naidu Kamisetti (47), Satyavrath Bharadwaj |
 | R14 | J1 | 4-bed, Bad/WC | Venkat Narayn (49), Sanjay (15), Danapathy (12) |
-| R15 | J1 | 4-bed | Sai Siddharth Kolluru (~30), Saibrata Punyasloka (~29), Prashant Tripathi (~36), Rahul Reddy (~30) |
-| R16 | J1 | 2-bed, Bad/WC | Sai Nikhilesh Murty (~30), Hariharan Moorthy (~30) |
-| R20 | J2 | 4-bed, Bad/WC | Ujjal Chettri (~25), Prajal Chettri (~30), Arvind Kywalya (~30), Chandrasekar (~28) |
-| R22 | J2 | 2-bed, Bad/WC | Sai Kirti Krishnan Murali (~25), Sukesh Kommana (~25) |
-| R23 | J2 | 2-bed, Bad/WC | Siva Ratnakar Immadi (25), Sai Kumar Mishra (~49) |
+| R15 | J1 | 4-bed | Sai Siddharth Kolluru, Saibrata Punyasloka, Prashant Tripathi, Rahul Reddy |
+| R16 | J1 | 2-bed, Bad/WC | Sai Nikhilesh Murty, Hariharan Moorthy |
+| R20 | J2 | 4-bed, Bad/WC | Ujjal Chettri, Prajal Chettri, Arvind Kywalya, Chandrasekar |
+| R22 | J2 | 2-bed, Bad/WC | Sai Kirti Krishnan Murali, Sukesh Kommana |
+| R23 | J2 | 2-bed, Bad/WC | Siva Ratnakar Immadi (25), Sai Kumar Mishra |
 
 
 
