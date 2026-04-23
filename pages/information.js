@@ -8,7 +8,7 @@ import remarkGfm from 'remark-gfm';
 import remarkBreaks from 'remark-breaks';
 
 export default function Information({ announcements }) {
-  const [openIndex, setOpenIndex] = useState(0); // Open the first one by default
+  const [openIndex, setOpenIndex] = useState(null);
 
   const toggleAccordion = (index) => {
     const isOpening = openIndex !== index;
@@ -94,7 +94,7 @@ export default function Information({ announcements }) {
             <p className="text-gray-700 dark:text-gray-200">
               Download the slide deck of the introduction presentation{' '}
               <a
-                href="https://github.com/seam2026/seam2026.github.io/blob/main/public/assets/presentations/SEAM2026_info_presentation.pdf"
+                href="https://github.com/seam2026/seam2026.github.io/blob/master/public/assets/presentations/SEAM2026_info_presentation.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-semibold text-blue-600 dark:text-blue-400 hover:text-blue-500 dark:hover:text-blue-300 underline"
