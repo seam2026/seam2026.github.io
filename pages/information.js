@@ -136,7 +136,8 @@ export async function getStaticProps() {
         "Travel and Transportation Details",
         "Packing List",
         "Rooms Allocation",
-        "Activities Overview"
+        "Activities Overview",
+        "Volunteer Roles and Help"
       ];
 
       announcements.sort((a, b) => {

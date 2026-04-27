@@ -56,6 +56,10 @@ export default function FAQ() {
       a: "The program includes Suprabhatam, Vedam, Bhajans, guest talks, open discussions, children's activities, outdoor sessions, and evening prayers."
     },
     {
+      q: "How can I help during the program?",
+      a: "If you volunteered during registration, your assigned helping roles are listed on the Information page. If you want to understand or confirm anything further, please contact one of the organizers."
+    },
+    {
       q: "Who is the guest speaker?",
       a: <span>The guest speaker is <strong>Smt. Geetha Mohan Ram garu</strong>. You can read more about her <a href="http://saibaba.ws/experiences1/the_wonderful_mother_that_i_have.htm" target="_blank" rel="noopener noreferrer" className="underline hover:text-pink-600 dark:hover:text-yellow-500">here</a>.</span>
     },
