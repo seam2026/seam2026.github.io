@@ -1,6 +1,6 @@
-# Volunteer Roles and Help During the Program
+ # Workshop and Volunteer Help During the Program
 
-Please use the shared Google Sheet below to find information and confirm or update your volunteering commitments.
+Please use the shared Google Sheet below to find information and confirm or update your workshop or volunteering commitments.
 
 - Google Sheet (add/confirm your name and role): https://docs.google.com/spreadsheets/d/1rfUNZ7sDp8s-cLMsVy5klUNHbWQUmpYVPdSn8CIG4Bw/edit?usp=sharing
 
