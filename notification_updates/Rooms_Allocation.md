@@ -86,7 +86,7 @@
 | R11 | J1 | 2-bed, Bad/WC | Sathya Sai Ram Vishwanath, Sudhir Shetty |
 | R12 | J1 | 2-bed | Naidu Kamisetti (47), Satyavrath Bharadwaj |
 | R14 | J1 | 4-bed, Bad/WC | Venkat Narayn (49), Sanjay (15), Danapathy (12) |
-| R15 | J1 | 4-bed | Sai Siddharth Kolluru, Saibrata Punyasloka, Prashant Tripathi, Rahul Reddy |
+| R15 | J1 | 4-bed | Sai Siddharth Kolluru, Saibrata Punyasloka, Surijith, Rahul Reddy |
 | R16 | J1 | 2-bed, Bad/WC | Sai Nikhilesh Murty, Hariharan Moorthy |
 | R20 | J2 | 4-bed, Bad/WC | Ujjal Chettri, Prajal Chettri, Arvind Kywalya, Chandrasekar |
 | R22 | J2 | 2-bed, Bad/WC | Sai Kirti Krishnan Murali, Sukesh Kommana |
