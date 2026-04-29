@@ -53,7 +53,6 @@ Others are welcome to help in the kitchen — if you'd like to volunteer, please
 | Guest Introduction (Geetha Mohan Ram) | TN Giridhar (205) |
 | Open Mic Moderation | Sampath Koppole (202), Aneesh Mohan (204) |
 | Sai Student Talk (15 min, Evening) | Sai Kirti Krishnan Murali (R22) |
-| Introducing Speakers | Aneesh Mohan (204), Biju Mukund (102) *(potential)* |
 | Outdoor Session (Heidesee & Squirrel Park) | Praveen Krishnakumar (308) *(head)* |
 | Chat / Q&A with Geetha Aunty on Parenting (Dinner) | Vidya Kalpathy (104) |
 | **Day 3 — Sunday** | |
