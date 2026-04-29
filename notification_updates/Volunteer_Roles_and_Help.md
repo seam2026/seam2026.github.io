@@ -24,6 +24,26 @@ Include your room code after your name — e.g. "Siva Ratnakar (R23)".
 | Guest Receiving (airport/station) | Krishna Kishore Ravuri (302) |
 | Summarizing Daily Proceedings | Vishnu Krishnamachari (105), Anil Hariharakrishnan (106) |
 
+## Dining Hall Serving Duty Roster
+
+Each meal has **6 volunteers** assigned. If you cannot make your slot, please swap with someone and update the Google Sheet.
+
+**3 teams rotating:**
+- **Team A (Dinners):** Bharadwaj (H6), Biju (102), Chandan (304), Divij (S2), Jayanth (401), Kishore Ravuri (302)
+- **Team B (Breakfasts):** Manikandan (201), Mridula (S5), Naidu (R12), Sampath (202), Sathya Sai Ram (R11), Shankar (306)
+- **Team C (Lunches):** Sri Harsha (305), Vanitha (H2), Sharanya (H2), Siva Ratnakar (R23), Sukesh (R22), Nidhi (202)
+
+## Kitchen Help
+
+Kitchen help coordinates food preparation and plating and is listed above the Dining Hall serving roster.
+
+Primary contacts (please confirm on the Google Sheet):
+
+- Nidhi Koppole (202)
+- Siva Ratnakar Immadi (R23)
+
+Others are welcome to help in the kitchen — if you'd like to volunteer, please add your name and room code on the Google Sheet or contact one of the organizers.
+
 ### Program & Content
 | Role | Person(s) |
 |------|-----------|
@@ -42,7 +62,6 @@ Include your room code after your name — e.g. "Siva Ratnakar (R23)".
 | Chat / Q&A with Geetha Aunty on Parenting (Dinner) | Vidya Kalpathy (104) |
 | **Day 3 — Sunday** | |
 | Master of Ceremony (Full Day) | Sampath Koppole (202) |
-| Children's Session with Geetha Aunty | *(no moderator needed)* |
 | Breakout Session Facilitators | See Breakout Groups below |
 | Sai Student Talk (Evening) | Hari Krishna Prasad Gorrepati (R10) |
 | Drama Direction | Sai Kirti Krishnan Murali (R22) |
@@ -173,16 +192,6 @@ Family members have been placed in separate groups. Each group has a facilitator
 
 ---
 
-## Dining Hall Serving Duty Roster
-
-Each meal has **6 volunteers** assigned. If you cannot make your slot, please swap with someone and update the Google Sheet.
-
-**3 teams rotating:**
-- **Team A (Dinners):** Bharadwaj (H6), Biju (102), Chandan (304), Divij (S2), Jayanth (401), Kishore Ravuri (302)
-- **Team B (Breakfasts):** Manikandan (201), Mridula (S5), Naidu (R12), Sampath (202), Sathya Sai Ram (R11), Shankar (306)
-- **Team C (Lunches):** Sri Harsha (305), Vanitha (H2), Sharanya (H2), Siva Ratnakar (R23), Sukesh (R22), Nidhi (202)
-
----
 
 ## Drivers for Outdoor Session (Saturday, 2nd May — Heidesee & Squirrel Park)
 
