@@ -6,9 +6,24 @@
 
 Please use the shared Google Sheet to confirm or update your volunteering commitments and the organizers will reach out to you.
 
-- **Google Sheet:** [Open Sheet](https://docs.google.com/spreadsheets/d/1rfUNZ7sDp8s-cLMsVy5klUNHbWQUmpYVPdSn8CIG4Bw/edit?usp=sharing)
 
 Include your room code after your name — e.g. "Siva Ratnakar (R23)".
+
+## Breakout Session (Saturday, 2nd May 2026)
+
+Potential volunteers by group:
+
+- Group 1: Biju
+- Group 2: Jayanth
+- Group 3: Sampath
+- Group 4: Giridhar
+- Group 5: Shankar Jha
+- Group 6: Vidya Praveena
+- Group 7: Vidya Kalapathy
+- Group 8: Aishwarya Amarnath
+- Group 9: Vandana Sethuram
+
+(These are listed as potential volunteers for the breakout session; please confirm or update your name on the Google Sheet linked above.)
 
 ---
 
@@ -19,7 +34,7 @@ Include your room code after your name — e.g. "Siva Ratnakar (R23)".
 |------|-----------|
 | Room Allocations | Siva Ratnakar Immadi (R23) |
 | Payment Tracking | Vanitha Naina (H2) |
-| Packing & Logistics (to/from venue) | Sai Kishore (H1), Praveen Krishnakumar (308) |
+| Packing & Logistics (to/from venue) | Sai Kishore (301), Praveen Krishnakumar (308) |
 | Kitchen Coordination | Nidhi Koppole (202), Siva Ratnakar Immadi (R23) |
 | Guest Receiving (airport/station) | Krishna Kishore Ravuri (302) |
 
@@ -57,7 +72,7 @@ Include your room code after your name — e.g. "Siva Ratnakar (R23)".
 Each meal has **6 volunteers** assigned. If you cannot make your slot, please swap with someone and update the Google Sheet.
 
 **3 teams rotating:**
-- **Team A (Dinners):** Bharadwaj, Biju, Chandan, Divij, Jayanth, Sai Kishore
+- **Team A (Dinners):** Bharadwaj, Biju, Chandan, Divij, Jayanth, Kishore Ravuri
 - **Team B (Breakfasts):** Manikandan, Mridula, Naidu, Sampath, Sathya Sai Ram, Shankar
 - **Team C (Lunches):** Sri Harsha, Vanitha, Sharanya, Siva Ratnakar, Sukesh, Nidhi
 
