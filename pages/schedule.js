@@ -20,47 +20,45 @@ export default function Schedule() {
       day: "Day 1 (Friday, 1st May 2026)",
       theme: "Arrival and Welcome",
       events: [
-        { time: "2:00 PM - 4:45 PM", activity: "Arrival and Settling in" },
-        { time: "5:00 PM - 7:00 PM", activity: "Vedam (30m), Lighting the Lamp (5m), Divine Discourse (5m), Welcome Song (5m), Bhajans (45m), Welcome Talk (20m), Housekeeping & Schedule (15m)" },
+        { time: "2:00 PM - 4:45 PM", activity: "Arrival and Settling in; Welcome Song, Bhajans, Welcome talk (20m), Housekeeping & Schedule" },
         { time: "7:00 PM - 8:30 PM", activity: "Dinner" },
-        { time: "8:30 PM - 10:00 PM", activity: "Free Time / Networking / Informal Chats / Practice" },
+        { time: "8:30 PM - 10:00 PM", activity: "Free time / Networking / Practice" },
         { time: "10:00 PM - 10:15 PM", activity: "Hanuman Chalisa and Night Prayers" }
       ]
     },
     {
       day: "Day 2 (Saturday, 2nd May 2026)",
-      theme: "Learning from Swami",
+      theme: "Saturday Sessions",
       events: [
         { time: "6:00 AM - 6:15 AM", activity: "Suprabhatam" },
-        { time: "6:15 AM - 7:30 AM", activity: "Free Time" },
+        { time: "6:15 AM - 7:30 AM", activity: "Free time" },
         { time: "7:30 AM - 8:30 AM", activity: "Breakfast" },
-        { time: "9:00 AM - 12:10 PM", activity: "Vedam (25m), Bhajans (35m), Guest Introduction (2m), Guest Talk (90m), Open Mic Session (30m), Closing Remarks (3m)" },
-        { time: "12:30 PM - 2:00 PM", activity: "Lunch" },
-        { time: "2:00 PM - 4:30 PM", activity: "Outdoor Group Photo and Breakout Session: Assemble in hall (10m), Group Photo Session 1 (20m), Group setup (10m), Breakout discussion on 'How are we Living Swami's Message?' (60m), Children's interaction with Aunty (simultaneous, 60m), Recap assembly (10m), Group recap sharing (30m)" },
-        { time: "4:30 PM - 5:30 PM", activity: "Tea and Free Time" },
-        { time: "5:30 PM - 7:30 PM", activity: "Vedam (10m), Sai Student Talk (10m), Musical Offering at the Divine Lotus Feet (45m), Bhajans & Aarti (35m)" },
-        { time: "7:30 PM - 9:00 PM", activity: "Dinner" },
-        { time: "8:30 PM - 9:30 PM", activity: "Optional: Sai Parenting - Informal Q & A with Geetha aunty" },
-        { time: "9:00 PM - 10:00 PM", activity: "Relaxing Time / Networking Time" },
+        { time: "9:00 AM - 12:20 PM", activity: "Morning Session: Vedam (10m), Bhajans (45m), Guest introduction (Giridhar, 5m), Guest Talk (Smt Geetha Mohan Ram, 90m), Open Mic (30m), Closing remarks" },
+        { time: "12:20 PM - 12:30 PM", activity: "Outdoor Group Photo session 1 (whites & traditional)" },
+        { time: "12:30 PM - 1:55 PM", activity: "Lunch" },
+        { time: "2:00 PM - 4:55 PM", activity: "Afternoon Outdoor Session: The Squirrel Park & Lake Heidsee" },
+        { time: "4:00 PM - 4:55 PM", activity: "Tea break" },
+        { time: "5:30 PM - 7:25 PM", activity: "Evening Session: Vedam (5m), Sai Student Talk (Kirthi Krishna, 15m), Musical Offering (45m), Bhajans & Aarti (45m)" },
+        { time: "7:30 PM - 9:00 PM", activity: "Dinner / Chat with Geetha aunty" },
         { time: "10:00 PM - 10:15 PM", activity: "Hanuman Chalisa and Night Prayers" }
       ]
     },
     {
       day: "Day 3 (Sunday, 3rd May 2026)",
-      theme: "Living in the Society",
+      theme: "Sunday Sessions",
       events: [
         { time: "6:00 AM - 6:15 AM", activity: "Suprabhatam" },
-        { time: "6:30 AM - 7:30 AM", activity: "Free Time" },
+        { time: "6:30 AM - 7:30 AM", activity: "Free time" },
         { time: "7:30 AM - 8:30 AM", activity: "Breakfast" },
-        { time: "9:00 AM - 12:30 PM", activity: "Vedam by Children (20m), Bhajans by Children (30m), Musical Offering by Children (25m), Guest Talk (90m), Closing Remarks (10m)" },
-        { time: "12:30 PM - 1:55 PM", activity: "Lunch Break" },
-        { time: "2:00 PM - 4:00 PM", activity: "Afternoon Session: Transfer to Heidesee, Group Photo Session 2 (Alpine lake background), Walk to The Squirrel Park and back, Transfer back to venue" },
-        { time: "4:00 PM - 4:45 PM", activity: "Tea Break" },
-        { time: "5:30 PM - 7:30 PM", activity: "Vedam (10m), Sai Student Talk (15m), Drama (45m), Bhajans and Aarti (45m), Buffer (5m)" },
+        { time: "9:00 AM - 12:30 PM", activity: "Morning Session: Vedam (10m), Bhajans (40m), Children's music program (40m), Guest Talk (90m), Roundup" },
+        { time: "12:30 PM - 1:50 PM", activity: "Lunch" },
+        { time: "2:00 PM - 4:30 PM", activity: "Breakout Sessions: 'How are we Living Swami's Message?' and Children's interaction with Geetha aunty" },
+        { time: "4:10 PM - 4:55 PM", activity: "Tea break" },
+        { time: "5:00 PM - 7:25 PM", activity: "Evening Session: Vedam (10m), Sai Student Talk (Hari Krishna Prasad, 15m), Drama (35m), Bhajans & Aarti (45m)" },
         { time: "7:30 PM - 9:00 PM", activity: "Dinner" },
-        { time: "9:00 PM - 10:00 PM", activity: "Networking and Informal Chats" },
+        { time: "9:00 PM - 10:00 PM", activity: "Networking and chats" },
         { time: "10:00 PM - 10:15 PM", activity: "Hanuman Chalisa and Night Prayers" },
-        { time: "10:15 PM - 10:30 PM", activity: "Checkout Announcements / Instructions" }
+        { time: "10:15 PM - 10:30 PM", activity: "Brief checkout announcements" }
       ]
     },
     {
@@ -68,10 +66,10 @@ export default function Schedule() {
       theme: "Closing and Departure",
       events: [
         { time: "6:00 AM - 6:15 AM", activity: "Suprabhatam" },
-        { time: "6:30 AM - 7:30 AM", activity: "Free Time" },
+        { time: "6:30 AM - 7:30 AM", activity: "Free time" },
         { time: "7:00 AM - 8:00 AM", activity: "Breakfast" },
-        { time: "8:30 AM - 10:30 AM", activity: "Vedam (10m), Bhajans (30m), Sai Students Activities Open Discussion (30m), Vote of Thanks and Felicitations (20m), Aarti (5m)" },
-        { time: "11:00 AM", activity: "Check-out and await SEAM 2027" }
+        { time: "8:20 AM - 10:00 AM", activity: "Morning Session: Vedam (10m), Bhajans (40m), Short talk (30m), Vote of Thanks (20m), Aarti (5m)" },
+        { time: "10:00 AM - 11:00 AM", activity: "Room clearance and checkout" }
       ]
     }
   ];
