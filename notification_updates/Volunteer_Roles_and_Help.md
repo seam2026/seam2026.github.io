@@ -35,14 +35,10 @@ Each meal has **6 volunteers** assigned. If you cannot make your slot, please sw
 
 ## Kitchen Help
 
-Kitchen help coordinates food preparation and plating and is listed above the Dining Hall serving roster.
-
-Primary contacts (please confirm on the Google Sheet):
-
 - Nidhi Koppole (202)
 - Siva Ratnakar Immadi (R23)
 
-Others are welcome to help in the kitchen — if you'd like to volunteer, please add your name and room code on the Google Sheet or contact one of the organizers.
+Others are welcome to help in the kitchen — if you'd like to volunteer, please contact one of the organizers.
 
 ### Program & Content
 | Role | Person(s) |
