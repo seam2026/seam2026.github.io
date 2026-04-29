@@ -76,7 +76,7 @@ Others are welcome to help in the kitchen — if you'd like to volunteer, please
 | Role | Person(s) |
 |------|-----------|
 | Photography | Shankar Kumar Jha (306), Sri Harsha Akella (305), Sai Nikhilesh Murty (R16) |
-| Videography | Sri Harsha Akella (305), Sai Nikhilesh Murty (R16) |
+| Videography | Sri Harsha Akella (305), Chandrashekar S.N (R20) |
 | PA System | HKP Gorrepati (R10), Chandrasekar S.N. (R20) |
 
 ---
