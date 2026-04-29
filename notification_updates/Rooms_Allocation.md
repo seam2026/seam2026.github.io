@@ -51,7 +51,7 @@
 
 | Room | Type | Capacity | Occupants |
 |------|------|----------|----------|
-| 301 | Superior double | 2 | Vijay Miriyala, Aswinikrishna (37) |
+| 301 | Superior double | 2 | Sai Kishore, Priyanka |
 | 302 | 2-bed Bergblick | 2 | Kishore Ravuri, Sarvani Akela (45) |
 | 303 | French double Bergblick | 2 | Sahithi Ravuri (20), Mahathi Ravuri (13) |
 | 304 | 2-bed Bergblick | 2 | Chandan Nallal, Arpitha Venkata Krishna (35) |
@@ -71,7 +71,7 @@
 
 | Room | Type | Capacity | Occupants |
 |------|------|----------|----------|
-| H1 | 4-bunk dorm, DU/WC/TV | 4 | Sai Kishore, Priyanka |
+| H1 | 4-bunk dorm, DU/WC/TV | 4 | spare |
 | H2 | 4-bunk dorm, DU/WC/TV | 4 | Vanitha Naina, Srividya Rajamani, Sharanya Mosalakanti, Venkata Sai Jyoti Jayanti |
 | H3 | Pallet double 160x200, DU/WC/TV | 2 | Shreyas Muralidhar, Anusha Acharya (35) |
 | H4 | Pallet double 160x200, DU/WC/TV | 2 | Neeraj Kanal, Ashni Ahuja (34) |
@@ -95,5 +95,5 @@
 
 
 ## Summary Statistics
-* **Total Assigned Participants:** 119
+* **Total Assigned Participants:** 118
 * **Jenatsch Lodge:** 25 allocated across 9 rooms

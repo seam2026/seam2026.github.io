@@ -154,6 +154,19 @@ export default function Schedule() {
             Menu
           </button>
         </div>
+
+        {activeTab === 'events' && (
+          <div className="flex justify-center mb-8">
+            <a
+              href="https://github.com/seam2026/seam2026.github.io/blob/master/public/assets/presentations/SEAM%20poster%20program.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 px-4 py-2 rounded-full text-xs font-semibold uppercase tracking-wide bg-blue-100 text-blue-800 dark:bg-blue-900/40 dark:text-blue-200 border border-blue-200 dark:border-blue-400/30 hover:bg-blue-200 dark:hover:bg-blue-900/60 transition"
+            >
+              Download PDF
+            </a>
+          </div>
+        )}
         
         <div className="max-w-4xl mx-auto grid gap-8 md:grid-cols-2">
           {activeTab === 'events' ? (
