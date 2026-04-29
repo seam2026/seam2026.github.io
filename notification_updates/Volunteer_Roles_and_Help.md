@@ -53,7 +53,7 @@ Others are welcome to help in the kitchen — if you'd like to volunteer, please
 | Guest Introduction (Geetha Mohan Ram) | TN Giridhar (205) |
 | Open Mic Moderation | Sampath Koppole (202), Aneesh Mohan (204) |
 | Sai Student Talk (15 min, Evening) | Sai Kirti Krishnan Murali (R22) |
-| Outdoor Session (Heidesee & Squirrel Park) | Praveen Krishnakumar (308) *(head)* |
+| Outdoor Session (Heidesee & Squirrel Park) | Praveen Krishnakumar (308) *(head)* Need help of car owners to transport others |
 | Chat / Q&A with Geetha Aunty on Parenting (Dinner) | Vidya Kalpathy (104) |
 | **Day 3 — Sunday** | |
 | Master of Ceremony (Full Day) | Sampath Koppole (202) |
@@ -188,7 +188,7 @@ Family members have been placed in separate groups. Each group has a facilitator
 ---
 
 
-## Drivers for Outdoor Session (Saturday, 2nd May — Heidesee & Squirrel Park)
+## Car Owners/Drivers for Outdoor Session (Saturday, 2nd May — Heidesee & Squirrel Park)
 
 Head: **Praveen Krishnakumar (308)**
 
