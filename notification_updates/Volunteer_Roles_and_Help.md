@@ -20,7 +20,7 @@ Include your room code after your name — e.g. "Siva Ratnakar (R23)".
 | Room Allocations | Siva Ratnakar Immadi (R23) |
 | Payment Tracking | Vanitha Naina (H2) |
 | Packing & Logistics (to/from venue) | Sai Kishore (301), Praveen Krishnakumar (308) |
-| Kitchen Coordination | Nidhi Koppole (202), Siva Ratnakar Immadi (R23) |
+| Kitchen Coordination | Sarvani Akela (302), Nidhi Koppole (202) |
 | Guest Receiving (airport/station) | Krishna Kishore Ravuri (302) |
 | Summarizing Daily Proceedings | Vishnu Krishnamachari (105), Anil Hariharakrishnan (106) |
 
