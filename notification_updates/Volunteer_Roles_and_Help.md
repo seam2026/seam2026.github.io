@@ -37,6 +37,7 @@ Each meal has **6 volunteers** assigned. If you cannot make your slot, please sw
 
 - Nidhi Koppole (202)
 - Siva Ratnakar Immadi (R23)
+- Sarvani Akela (302)
 
 Others are welcome to help in the kitchen — if you'd like to volunteer, please contact one of the organizers.
 
