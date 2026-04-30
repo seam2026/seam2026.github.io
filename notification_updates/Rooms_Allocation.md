@@ -17,55 +17,55 @@
 | Room | Type | Capacity | Occupants |
 |------|------|----------|----------|
 | S1 | Superior 2-bed | 2 | Geetha Mohan Ram |
-| S2 | Superior 4-bed + balcony | 4 | Divij Desai, Devanshi (39), Prisca (8), Pranaya (4) |
-| S3 | Superior 3-bed + extra | 4 | Vidya Praveena Srikantan, Sai Krishna (13), Sai Skanda (9) |
+| S2 | Superior 4-bed + balcony | 4 | Divij Desai, Devanshi, Prisca, Pranaya |
+| S3 | Superior 3-bed + extra | 4 | Vidya Praveena Srikantan, Sai Krishna, Sai Skanda |
 | S4 | Superior 2-bed + extra | 3 | Bhargav (Chef), Avyakth (Chef's son), Venkat |
-| S5 | Superior 3-bed + extra | 4 | Mridula Vadali, Vijayalakshmi (63), Atharv Sai (7) |
+| S5 | Superior 3-bed + extra | 4 | Mridula Vadali, Vijayalakshmi, Atharv Sai |
 | S6 | Superior 2-bed | 2 | Navin Patel, Elias Hanuman |
 
 ## First Floor (1) - Family & Standard Rooms
 
 | Room | Type | Capacity | Occupants |
 |------|------|----------|----------|
-| 101 | Family 4-bed + extra, Bergblick | 5 | Dr Ram Sathannapally (70), Mrs Meenakshi (65), Dr Sunitha Murali (57), Dr Sowmya (24) |
-| 102 | 2-bed Bergblick | 2 | Biju Mukund, Madhuri (52) |
-| 103 | French double Bergblick | 2 | Rishi Biju (19), Dr Rama Subrahmanyam (50) |
-| 104 | 2-bed Bergblick | 2 | Vidya Kalpathy (43), Raghav Sai (7) |
-| 105 | 3-bed family Bergblick | 3 | Vishnu Krishnamachari (50), Ramya (47), Sahana (12) |
-| 106 | Simple double, DU/WC outside | 2 | Anil Hariharakrishnan (44), Sai Shruti (10) |
-| 107 | 4-bed North (1D + 2S) | 4 | Aishwarya (38), Rakshith Prasad (38), Veda (8), Saaisha (4) |
+| 101 | Family 4-bed + extra, Bergblick | 5 | Dr Ram Sathannapally, Mrs Meenakshi, Dr Sunitha Murali, Dr Sowmya |
+| 102 | 2-bed Bergblick | 2 | Biju Mukund, Madhuri |
+| 103 | French double Bergblick | 2 | Rishi Biju, Dr Rama Subrahmanyam |
+| 104 | 2-bed Bergblick | 2 | Vidya Kalpathy, Raghav Sai |
+| 105 | 3-bed family Bergblick | 3 | Vishnu Krishnamachari, Ramya, Sahana |
+| 106 | Simple double, DU/WC outside | 2 | Anil Hariharakrishnan, Sai Shruti |
+| 107 | 4-bed North (1D + 2S) | 4 | Aishwarya, Rakshith Prasad, Veda, Saaisha |
 
 ## Second Floor (2) - Family & Standard Rooms
 
 | Room | Type | Capacity | Occupants |
 |------|------|----------|----------|
-| 201 | Family 4-bed + extra, Bergblick | 5 | Manikandan (49), Madhumitha (43), Maadesh (15), Maansi (7) |
-| 202 | 2-bed Bergblick | 2 | Sampath Koppole (49), Nidhi (45) |
-| 203 | French double Bergblick | 2 | Atharv Koppole (15), Saanvi Koppole (11) |
-| 204 | 2-bed Bergblick | 2 | Aneesh Mohan (43), Anupama Nair (43) |
-| 205 | 3-bed family Bergblick | 3 | TN Giridhar (50+), Sridevi Narimetla, Seshasai (25) |
-| 206 | Simple double, DU/WC outside | 2 | Akshaya Nambiar (19), Akshatha Nambiar (15) |
-| 207 | 4-bed North (1D + 2S) | 4 | Arvind Anandakumar (44), Vandana (39), Avanthika (14), Amritha (6) |
+| 201 | Family 4-bed + extra, Bergblick | 5 | Manikandan, Madhumitha, Maadesh, Maansi |
+| 202 | 2-bed Bergblick | 2 | Sampath Koppole, Nidhi |
+| 203 | French double Bergblick | 2 | Atharv Koppole, Saanvi Koppole |
+| 204 | 2-bed Bergblick | 2 | Aneesh Mohan, Anupama Nair |
+| 205 | 3-bed family Bergblick | 3 | TN Giridhar, Sridevi Narimetla, Seshasai |
+| 206 | Simple double, DU/WC outside | 2 | Akshaya Nambiar, Akshatha Nambiar |
+| 207 | 4-bed North (1D + 2S) | 4 | Arvind Anandakumar, Vandana, Avanthika, Amritha |
 
 ## Third Floor (3) - Superior & Standard Rooms
 
 | Room | Type | Capacity | Occupants |
 |------|------|----------|----------|
 | 301 | Superior double | 2 | Sai Kishore, Priyanka |
-| 302 | 2-bed Bergblick | 2 | Kishore Ravuri, Sarvani Akela (45) |
-| 303 | French double Bergblick | 2 | Sahithi Ravuri (20), Mahathi Ravuri (13) |
-| 304 | 2-bed Bergblick | 2 | Chandan Nallal, Arpitha Venkata Krishna (35) |
-| 305 | Superior double | 2 | Sri Harsha Akella, Kiranmai (26) |
-| 306 | 4-bed family (double 180 + bunk) | 4 | Shankar Jha (43), Divya (37), Bhoomi (12), Sachit (7) |
-| 308 | 4-bed North (1D + 2S) | 4 | Praveen Krishnakumar, SriVaishnavi (36), Sai Achintya (10) |
+| 302 | 2-bed Bergblick | 2 | Kishore Ravuri, Sarvani Akela |
+| 303 | French double Bergblick | 2 | Sahithi Ravuri, Mahathi Ravuri |
+| 304 | 2-bed Bergblick | 2 | Chandan Nallal, Arpitha Venkata Krishna |
+| 305 | Superior double | 2 | Sri Harsha Akella, Kiranmai |
+| 306 | 4-bed family (double 180 + bunk) | 4 | Shankar Jha, Divya, Bhoomi, Sachit |
+| 308 | 4-bed North (1D + 2S) | 4 | Praveen Krishnakumar, SriVaishnavi, Sai Achintya |
 
 ## Fourth Floor (4) - Family & Standard Rooms
 
 | Room | Type | Capacity | Occupants |
 |------|------|----------|----------|
-| 401 | Family 5-bed (3 singles + bunk), DU/WC outside | 5 | Jayanth Katta (46), Reena (39), Jiya (13), Rohini (11) |
-| 402 | 3-bed family Bergblick | 3 | Pardha Mantravadi (49), Lalitha Kameswari (47), Savir (11) |
-| 403 | Simple double North | 2 | Guru Swaroop, Saisree Bennabhaktula (32) |
+| 401 | Family 5-bed (3 singles + bunk), DU/WC outside | 5 | Jayanth Katta, Reena, Jiya, Rohini |
+| 402 | 3-bed family Bergblick | 3 | Pardha Mantravadi, Lalitha Kameswari, Savir |
+| 403 | Simple double North | 2 | Guru Swaroop, Saisree Bennabhaktula |
 
 ## Hostel-like Cozy Accommodation (Grischalodge)
 
@@ -73,10 +73,10 @@
 |------|------|----------|----------|
 | H1 | 4-bunk dorm, DU/WC/TV | 4 | spare |
 | H2 | 4-bunk dorm, DU/WC/TV | 4 | Vanitha Naina, Srividya Rajamani, Sharanya Mosalakanti, Venkata Sai Jyoti Jayanti |
-| H3 | Pallet double 160x200, DU/WC/TV | 2 | Shreyas Muralidhar, Anusha Acharya (35) |
-| H4 | Pallet double 160x200, DU/WC/TV | 2 | Neeraj Kanal, Ashni Ahuja (34) |
-| H5 | Pallet double 160x200, DU/WC/TV | 2 | Anvil Kabadi, Megha Anvil (32) |
-| H6 | Pallet double 160x200, DU/WC/TV | 2 | Bharadwaj Mummaneni, Sai Prerna Kolisetty (30) |
+| H3 | Pallet double 160x200, DU/WC/TV | 2 | Shreyas Muralidhar, Anusha Acharya |
+| H4 | Pallet double 160x200, DU/WC/TV | 2 | Neeraj Kanal, Ashni Ahuja |
+| H5 | Pallet double 160x200, DU/WC/TV | 2 | Anvil Kabadi, Megha Anvil |
+| H6 | Pallet double 160x200, DU/WC/TV | 2 | Bharadwaj Mummaneni, Sai Prerna Kolisetty |
 
 ## Jenatsch Lodge (Separate Accommodation - Opposite Grischalodge)
 
@@ -84,13 +84,13 @@
 |------|-------|------|----------|
 | R10 | J1 | 4-bed, Bad/WC | HKP Gorrepati, Nagasai Sripada, Vijaya Sai Vurukonda, Shashank Suman |
 | R11 | J1 | 2-bed, Bad/WC | Sathya Sai Ram Vishwanath, Sudhir Shetty |
-| R12 | J1 | 2-bed | Naidu Kamisetti (47), Satyavrath Bharadwaj |
-| R14 | J1 | 4-bed, Bad/WC | Venkat Narayn (49), Sanjay (15), Danapathy (12) |
+| R12 | J1 | 2-bed | Naidu Kamisetti, Satyavrath Bharadwaj |
+| R14 | J1 | 4-bed, Bad/WC | Venkat Narayn, Sanjay, Danapathy |
 | R15 | J1 | 4-bed | Sai Siddharth Kolluru, Saibrata Punyasloka, Surijith, Rahul Reddy |
 | R16 | J1 | 2-bed, Bad/WC | Sai Nikhilesh Murty, Hariharan Moorthy |
 | R20 | J2 | 4-bed, Bad/WC | Ujjal Chettri, Prajal Chettri, Arvind Kywalya, Chandrasekar |
 | R22 | J2 | 2-bed, Bad/WC | Sai Kirti Krishnan Murali, Sukesh Kommana |
-| R23 | J2 | 2-bed, Bad/WC | Siva Ratnakar Immadi (25), Sai Kumar Mishra |
+| R23 | J2 | 2-bed, Bad/WC | Siva Ratnakar Immadi, Sai Kumar Mishra |
 
 
 

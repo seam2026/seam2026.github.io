@@ -86,103 +86,103 @@ Family members have been placed in separate groups. Each group has a facilitator
 ### Men's Groups
 
 **Men's Group 1 (Biju Mukund)**
-🔹 Biju Mukund (102), age 50
-- Dr Ram Sathannapally (101), age 70
-- Vishnu Krishnamachari (105), age 50
-- Kishore Ravuri (302), age 48
-- Aneesh Mohan (204), age 43
-- Anvil Kabadi (H5), age 31
-- Sai Nikhilesh Murty (R16), age 30
-- Saibrata Punyasloka (R15), age 29
-- Sai Kirti Krishnan Murali (R22), age 25
-- Seshasai Narimetla (205), age 25
+🔹 Biju Mukund (102)
+- Dr Ram Sathannapally (101)
+- Vishnu Krishnamachari (105)
+- Kishore Ravuri (302)
+- Aneesh Mohan (204)
+- Anvil Kabadi (H5)
+- Sai Nikhilesh Murty (R16)
+- Saibrata Punyasloka (R15)
+- Sai Kirti Krishnan Murali (R22)
+- Seshasai Narimetla (205)
 
 **Men's Group 2 (Jayanth Katta)**
-🔹 Jayanth Katta (401), age 46
-- Sathya Sai Ram Vishwanath (R11), age 52
-- Manikandan (201), age 49
-- Naidu Kamisetti (R12), age 47
-- Divij Desai (S2), age 39
-- Shreyas Muralidhar (H3), age 31
-- Hariharan Moorthy (R16), age 30
-- Chandrasekar S.N. (R20), age 28
-- Sukesh Kommana (R22), age 25
-- Rishi Biju (103), age 19
+🔹 Jayanth Katta (401)
+- Sathya Sai Ram Vishwanath (R11)
+- Manikandan (201)
+- Naidu Kamisetti (R12)
+- Divij Desai (S2)
+- Shreyas Muralidhar (H3)
+- Hariharan Moorthy (R16)
+- Chandrasekar S.N. (R20)
+- Sukesh Kommana (R22)
+- Rishi Biju (103)
 
 **Men's Group 3 (Sampath Koppole)**
-🔹 Sampath Koppole (202), age 49
-- HKP Gorrepati (R10), age 51
-- Venkat Narayn (R14), age 49
-- Sudhir Shetty (R11), age 44
-- Rakshith Prasad (107), age 38
-- Bharadwaj Mummaneni (H6), age 31
-- Rahul Reddy (R15), age 30
-- Satyavrath Bharadwaj (R12), age 28
-- Siva Ratnakar Immadi (R23), age 25
+🔹 Sampath Koppole (202)
+- HKP Gorrepati (R10)
+- Venkat Narayn (R14)
+- Sudhir Shetty (R11)
+- Rakshith Prasad (107)
+- Bharadwaj Mummaneni (H6)
+- Rahul Reddy (R15)
+- Satyavrath Bharadwaj (R12)
+- Siva Ratnakar Immadi (R23)
 
 **Men's Group 4 (TN Giridhar)**
-🔹 TN Giridhar (205), age 50
-- Nagasai Sripada (R10), age 51
-- Pardha Mantravadi (402), age 49
-- Anil Hariharakrishnan (106), age 44
-- Prashant Tripathi (R15), age 36
-- Vijay Miriyala (301), age 31
-- Prajal Chettri (R20), age 30
-- Shashank Suman (R10), age 27
+🔹 TN Giridhar (205)
+- Nagasai Sripada (R10)
+- Pardha Mantravadi (402)
+- Anil Hariharakrishnan (106)
+- Prashant Tripathi (R15)
+- Vijay Miriyala (301)
+- Prajal Chettri (R20)
+- Shashank Suman (R10)
 
 **Men's Group 5 (Shankar Jha)**
-🔹 Shankar Kumar Jha (306), age 43
-- Dr Rama Subrahmanyam (103), age 50
-- Sai Kumar Mishra (R23), age 49
-- Arvind Anandakumar (207), age 44
-- Vijaya Sai Vurukonda (R10), age 33
-- Sai Siddharth Kolluru (R15), age 30
-- Arvind Kywalya (R20), age 30
-- Guru Swaroop (403), age 26
-- Ujjal Chettri (R20), age 25
+🔹 Shankar Kumar Jha (306)
+- Dr Rama Subrahmanyam (103)
+- Sai Kumar Mishra (R23)
+- Arvind Anandakumar (207)
+- Vijaya Sai Vurukonda (R10)
+- Sai Siddharth Kolluru (R15)
+- Arvind Kywalya (R20)
+- Guru Swaroop (403)
+- Ujjal Chettri (R20)
 
 ### Women's Groups
 
 **Women's Group 1 (Vidya Praveena Srikantan)**
-🔹 Vidya Praveena Srikantan (S3), age 40
-- Mrs Meenakshi Sathannapally (101), age 65
-- Ramya Kannan (105), age 47
-- Anupama Nair (204), age 43
-- Divya Jha (306), age 37
-- Anusha Acharya (H3), age 35
-- Mridula Vadali (S5), age 31
-- Kiranmai Akella (305), age 26
+🔹 Vidya Praveena Srikantan (S3)
+- Mrs Meenakshi Sathannapally (101)
+- Ramya Kannan (105)
+- Anupama Nair (204)
+- Divya Jha (306)
+- Anusha Acharya (H3)
+- Mridula Vadali (S5)
+- Kiranmai Akella (305)
 
 **Women's Group 2 (Vidya Kalpathy)**
-🔹 Vidya Kalpathy (104), age 43
-- Vijayalakshmi (S5), age 63
-- Lalitha Kameswari (402), age 47
-- Madhumitha (201), age 43
-- Aswinikrishna (301), age 37
-- Ashni Ahuja (H4), age 34
-- Vanitha Naina (H2), age 31
-- Dr Sowmya Subrahmanyam (101), age 24
-- Akshaya Nambiar (206), age 19
+🔹 Vidya Kalpathy (104)
+- Vijayalakshmi (S5)
+- Lalitha Kameswari (402)
+- Madhumitha (201)
+- Aswinikrishna (301)
+- Ashni Ahuja (H4)
+- Vanitha Naina (H2)
+- Dr Sowmya Subrahmanyam (101)
+- Akshaya Nambiar (206)
 
 **Women's Group 3 (Aishwarya Amarnath)**
-🔹 Aishwarya Amarnath (107), age 38
-- Dr Sunitha Murali (101), age 57
-- Sarvani Akela (302), age 45
-- Reena Katta (401), age 39
-- SriVaishnavi (308), age 36
-- Saisree Bennabhaktula (403), age 32
-- Srividya Rajamani (H2), age 31
-- Sharanya Mosalakanti (H2), age 24
+🔹 Aishwarya Amarnath (107)
+- Dr Sunitha Murali (101)
+- Sarvani Akela (302)
+- Reena Katta (401)
+- SriVaishnavi (308)
+- Saisree Bennabhaktula (403)
+- Srividya Rajamani (H2)
+- Sharanya Mosalakanti (H2)
 
 **Women's Group 4 (Vandana Sethuraman)**
-🔹 Vandana Sethuraman (207), age 39
-- Madhuri Biju (102), age 52
-- Nidhi Koppole (202), age 45
-- Devanshi Desai (S2), age 39
-- Arpitha Venkata Krishna (304), age 35
-- Megha Anvil (H5), age 32
-- Sai Prerna Kolisetty (H6), age 30
-- Sahithi Ravuri (303), age 20
+🔹 Vandana Sethuraman (207)
+- Madhuri Biju (102)
+- Nidhi Koppole (202)
+- Devanshi Desai (S2)
+- Arpitha Venkata Krishna (304)
+- Megha Anvil (H5)
+- Sai Prerna Kolisetty (H6)
+- Sahithi Ravuri (303)
 
 *Children will have a separate interaction session with Geetha Aunty.*
 
