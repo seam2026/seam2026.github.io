@@ -18,7 +18,7 @@ We would like to create a home where "each lives for the other and all live for 
 * **Bhajan Sessions** - Group singing of devotional songs (6 major sessions throughout the event)
 * **Aarati** - Traditional lamp-lighting ceremony and closing prayers
 * **Hanuman Chalisa** - Nightly recitation of this sacred hymn
-* **Guest Talks** - Special address by Smt Geetha MohanRam on Swami's teachings and their application in life
+* **Guest Talks** - Special address by Smt Geetha Mohan Ram on Swami's teachings and their application in life
 * **Musical Offerings** - Dedicated music performances as spiritual expression
 * **Drama Presentations** - Theatrical enactment of spiritual and moral themes
 

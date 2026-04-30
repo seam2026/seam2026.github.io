@@ -25,7 +25,7 @@ export default function FAQ() {
     },
     {
       q: "Whom do I pay the registration fee to?",
-      a: "Please pay the amount to Krishna Kishore. The payent details are available in the Information page."
+      a: "Please pay the amount to Krishna Kishore. The payment details are available in the Information page."
     },
     {
       q: "Is accommodation provided?",

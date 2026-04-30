@@ -34,11 +34,11 @@ export default function Schedule() {
         { time: "6:15 AM - 7:30 AM", activity: "Free time" },
         { time: "7:30 AM - 8:30 AM", activity: "Breakfast" },
         { time: "9:00 AM - 12:20 PM", activity: "Morning Session: Vedam (10m), Bhajans (45m), Guest introduction (Giridhar, 5m), Guest Talk (Smt Geetha Mohan Ram, 90m), Open Mic (30m), Closing remarks" },
-        { time: "12:20 PM - 12:30 PM", activity: "Outdoor Group Photo session 1 (whites & traditional)" },
+        { time: "12:20 PM - 12:30 PM", activity: "Outdoor Group Photo session 1 (whites & traditional sarees)" },
         { time: "12:30 PM - 1:55 PM", activity: "Lunch" },
-        { time: "2:00 PM - 4:55 PM", activity: "Afternoon Outdoor Session: The Squirrel Park & Lake Heidsee" },
+        { time: "2:00 PM - 3:55 PM", activity: "Afternoon Outdoor Session: The Squirrel Park & Lake Heidsee" },
         { time: "4:00 PM - 4:55 PM", activity: "Tea break" },
-        { time: "5:30 PM - 7:25 PM", activity: "Evening Session: Vedam (5m), Sai Student Talk (Kirthi Krishna, 15m), Musical Offering (45m), Bhajans & Aarti (45m)" },
+        { time: "5:30 PM - 7:25 PM", activity: "Evening Session: Vedam (5m), Sai Student Talk (Kirthi Krishna, 15m), Musical Offering (45m), Bhajans & Aarthi (45m)" },
         { time: "7:30 PM - 9:00 PM", activity: "Dinner / Chat with Geetha aunty" },
         { time: "10:00 PM - 10:15 PM", activity: "Hanuman Chalisa and Night Prayers" }
       ]
@@ -87,7 +87,7 @@ export default function Schedule() {
         { time: "Breakfast", description: "Vegetable Upma, Peanut Chutney, Gun Powder Podi, Ghee" },
         { time: "Morning Break", description: "Biscuits; beverages: Chocomilk, Tea, Coffee" },
         { time: "Lunch", description: "Tomato Pappu, Bangaladumpa Vepudu (Potato Fry), Rasam, Lemon Rice, Plain Rice; Sweet: Semiya Payasam; Sides: Kandi Podi, Appadam/Vadiyalu, Pickle (Avakaya)" },
-        { time: "Zveri", description: "Mini Samosas with Chocomilk, Tea, Coffee" },
+        { time: "Zvieri", description: "Mini Samosas with Chocomilk, Tea, Coffee" },
         { time: "Dinner", description: "Roti, Palak Paneer, Dal Makhani, Plain Rice, Salad, Pasta Gratin; Sweet: Mango Rasmalai; Sides: Ghee" }
       ]
     },
@@ -95,9 +95,9 @@ export default function Schedule() {
       day: "Sun (3rd May)",
       items: [
         { time: "Breakfast", description: "Green Peas and Sweetcorn Poha, Chutney; beverages: Chocomilk, Tea, Coffee" },
-        { time: "Znuni", description: "Grapes/Berries; beverages: Chocomilk, Tea, Coffee" },
+        { time: "Znüni", description: "Grapes/Berries; beverages: Chocomilk, Tea, Coffee" },
         { time: "Lunch", description: "Soya Masala, Babycorn/Vegetable Jhalfraize, Jeera Pulao, Plain Rice, Salad, Pizza; Sweet: Gulab Jamun; Sides: Papad" },
-        { time: "Zveri", description: "Vegetable Spring Rolls with Chocomilk, Tea, Coffee" },
+        { time: "Zvieri", description: "Vegetable Spring Rolls with Chocomilk, Tea, Coffee" },
         { time: "Dinner", description: "Naan, Chole, Vegetable Pulao, Raita, Salad; Sweet: Fruit Salad Ice Cream; Sides: Sweet Chilli Soya Sauce" }
       ]
     },

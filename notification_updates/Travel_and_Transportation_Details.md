@@ -20,7 +20,7 @@ For those preferring to drive, car rentals are available at Zurich Airport. You 
 **Parking:**
 Free parking is available at the designated **Spielplatz (sports field)** near the venue. No payment is required.
 * **Parking Details:** Up to 50 cars can be accommodated
-* **Location Map:** [Spielplatz opposite of the accomodation](https://maps.app.goo.gl/drMwZxAoLA1M7x3J9)
+* **Location Map:** [Spielplatz opposite the accommodation](https://maps.app.goo.gl/drMwZxAoLA1M7x3J9)
 
 **Travel Plan Confirmation (required):**
 All participants must confirm if they are joining and submit their travel plan details by **23rd March 2026** to confirm their place.
