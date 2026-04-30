@@ -131,13 +131,16 @@ export async function getStaticProps() {
         };
       });
 
+      // Keep the volunteer markdown in the repo, but hide it from the Information page for now.
+      announcements = announcements.filter((announcement) => announcement.title !== "Volunteer Roles and Help");
+
       const desiredOrder = [
         "Registration Fees and Payment Details",
         "Travel and Transportation Details",
         "Packing List",
         "Rooms Allocation",
         "Activities Overview",
-        "Volunteer Roles and Help"
+        // "Volunteer Roles and Help"
       ];
 
       announcements.sort((a, b) => {
