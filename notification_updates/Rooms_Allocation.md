@@ -65,13 +65,13 @@
 |------|------|----------|----------|
 | 401 | Family 5-bed (3 singles + bunk), DU/WC outside | 5 | Jayanth Katta, Reena, Jiya, Rohini |
 | 402 | 3-bed family Bergblick | 3 | Pardha Mantravadi, Lalitha Kameswari, Savir |
-| 403 | Simple double North | 2 | Guru Swaroop, Saisree Bennabhaktula |
+| 403 | Simple double North | 2 |  |
 
 ## Hostel-like Cozy Accommodation (Grischalodge)
 
 | Room | Type | Capacity | Occupants |
 |------|------|----------|----------|
-| H1 | 4-bunk dorm, DU/WC/TV | 4 | Sei Ram (Dad) |
+| H1 | 4-bunk dorm, DU/WC/TV | 4 | Guru Swaroop, Saisree Bennabhaktula |
 | H2 | 4-bunk dorm, DU/WC/TV | 4 | Vanitha Naina, Srividya Rajamani, Sharanya Mosalakanti, Venkata Sai Jyoti Jayanti |
 | H3 | Pallet double 160x200, DU/WC/TV | 2 | Shreyas Muralidhar, Anusha Acharya |
 | H4 | Pallet double 160x200, DU/WC/TV | 2 | Neeraj Kanal, Ashni Ahuja |
@@ -86,7 +86,7 @@
 | R11 | J1 | 2-bed, Bad/WC | Sathya Sai Ram Vishwanath, Sudhir Shetty |
 | R12 | J1 | 2-bed | Naidu Kamisetti, Satyavrath Bharadwaj |
 | R14 | J1 | 4-bed, Bad/WC | Venkat Narayn, Sanjay, Danapathy |
-| R15 | J1 | 4-bed | Sai Siddharth Kolluru, Saibrata Punyasloka, Surijith, Rahul Reddy |
+| R15 | J1 | 4-bed | Sai Siddharth Kolluru, Saibrata Punyasloka, Sri Ram (Dad), Rahul Reddy |
 | R16 | J1 | 2-bed, Bad/WC | Sai Nikhilesh Murty, Hariharan Moorthy |
 | R20 | J2 | 4-bed, Bad/WC | Ujjal Chettri, Prajal Chettri, Arvind Kywalya, Chandrasekar |
 | R22 | J2 | 2-bed, Bad/WC | Sai Kirti Krishnan Murali, Sukesh Kommana |
