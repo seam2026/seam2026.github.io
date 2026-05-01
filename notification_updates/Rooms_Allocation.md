@@ -3,6 +3,11 @@
 **Venue:** Grischalodge, Parpan, Switzerland  
 **Address:** Hauptstrasse 22, 7076 Parpan, Switzerland
 
+## Wifi password for Grischalodge
+
+Any name with grischalodge will take the password.
+samt8739
+
 ## Important Information
 * **Separate Accommodation:** Jenatsch Lodge - located opposite Grischalodge, just across the road
 * **Additional Rooms:** Some participants are allocated to Jenatsch floors J1/J2 based on final room balancing
