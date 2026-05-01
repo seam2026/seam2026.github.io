@@ -29,7 +29,7 @@
 |------|------|----------|----------|
 | 101 | Family 4-bed + extra, Bergblick | 5 | Dr Ram Sathannapally, Mrs Meenakshi, Dr Sunitha Murali, Dr Sowmya |
 | 102 | 2-bed Bergblick | 2 | Biju Mukund, Madhuri |
-| 103 | French double Bergblick | 2 | Rishi Biju, Dr Rama Subrahmanyam |
+| 103 | French double Bergblick | 2 |Manickam , Dr Rama Subrahmanyam |
 | 104 | 2-bed Bergblick | 2 | Vidya Kalpathy, Raghav Sai |
 | 105 | 3-bed family Bergblick | 3 | Vishnu Krishnamachari, Ramya, Sahana |
 | 106 | Simple double, DU/WC outside | 2 | Anil Hariharakrishnan, Sai Shruti |
