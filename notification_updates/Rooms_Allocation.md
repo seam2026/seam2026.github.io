@@ -80,6 +80,11 @@
 
 ## Jenatsch Lodge (Separate Accommodation - Opposite Grischalodge)
 
+Enter the lodge with the following code
+
+50933* from main entrance (from Speilplatz-Playground)
+50933 from side entrance 
+
 | Room | Floor | Type | Occupants |
 |------|-------|------|----------|
 | R10 | J1 | 4-bed, Bad/WC | HKP Gorrepati, Nagasai Sripada, Vijaya Sai Vurukonda, Shashank Suman |
