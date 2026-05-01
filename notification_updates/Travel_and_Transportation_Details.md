@@ -22,6 +22,10 @@ Free parking is available at the designated **Spielplatz (sports field)** near t
 * **Parking Details:** Up to 50 cars can be accommodated
 * **Location Map:** [Spielplatz opposite the accommodation](https://maps.app.goo.gl/drMwZxAoLA1M7x3J9)
 
+If the main parking area is full, please consider these alternate parking spaces for those arriving by car:
+* [Parkplatz Proschieri](https://www.google.com/maps/place//data=!4m2!3m1!1s0x4784bf002cb43aa5:0xb74378f84dd7efb8?entry=gemini&utm_source=gemini&utm_campaign=gem-default)
+* [Parkplatz Obertor](https://www.google.com/maps/place//data=!4m2!3m1!1s0x4784bf9536d3240b:0xddf94b9b4976da7b?entry=gemini&utm_source=gemini&utm_campaign=gem-default)
+
 **Travel Plan Confirmation (required):**
 All participants must confirm if they are joining and submit their travel plan details by **23rd March 2026** to confirm their place.
 Please submit the form here:
