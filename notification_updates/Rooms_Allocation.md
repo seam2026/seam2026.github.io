@@ -71,7 +71,7 @@
 
 | Room | Type | Capacity | Occupants |
 |------|------|----------|----------|
-| H1 | 4-bunk dorm, DU/WC/TV | 4 | spare |
+| H1 | 4-bunk dorm, DU/WC/TV | 4 | Sei Ram (Dad) |
 | H2 | 4-bunk dorm, DU/WC/TV | 4 | Vanitha Naina, Srividya Rajamani, Sharanya Mosalakanti, Venkata Sai Jyoti Jayanti |
 | H3 | Pallet double 160x200, DU/WC/TV | 2 | Shreyas Muralidhar, Anusha Acharya |
 | H4 | Pallet double 160x200, DU/WC/TV | 2 | Neeraj Kanal, Ashni Ahuja |
